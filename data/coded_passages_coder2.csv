@@ -1,0 +1,297 @@
+ID,row_id,C2_relevante,C2_estrategia,C2_estrategia_2,C2_quem,C2_valencia
+C0003,48300,N,Não se aplica,,,
+C0004,22319,N,Não se aplica,,,
+C0009,54499,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C0011,2955,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0012,29448,S,Artesania,,Fornecedor,Positiva
+C0014,38480,S,Cadeia local,,Visitante,Neutra
+C0016,26557,S,R8 Reciclar,,Destino / comunidade,Neutra
+C0017,30225,N,Não se aplica,,,
+C0027,21752,S,Sustentabilidade declarada,Artesania,Fornecedor,Positiva
+C0029,3291,S,Artesania,,Fornecedor,Neutra
+C0034,35680,N,Não se aplica,,,
+C0035,14553,S,R4 Reparar,,Fornecedor,Positiva
+C0040,24760,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0041,43806,N,Não se aplica,,,
+C0045,45324,N,Não se aplica,,,
+C0048,35204,S,Artesania,,Fornecedor,Positiva
+C0051,8693,S,Cadeia local,,Destino / comunidade,Positiva
+C0052,20082,S,Artesania,,Fornecedor,Positiva
+C0053,3268,S,Artesania,,Fornecedor,Positiva
+C0055,18282,N,Não se aplica,,,
+C0056,20063,N,Não se aplica,,,
+C0058,53086,N,Não se aplica,,,
+C0062,7327,S,Artesania,,Fornecedor,Positiva
+C0063,27060,S,R8 Reciclar,,Destino / comunidade,Neutra
+C0072,29958,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0083,38827,S,Artesania,,Fornecedor,Negativa
+C0085,5394,S,R3 Reutilizar,,Fornecedor,Neutra
+C0093,23841,N,Não se aplica,,,
+C0094,14067,S,R4 Reparar,,Fornecedor,Positiva
+C0098,31564,N,Não se aplica,,,
+C0100,47556,N,Não se aplica,,,
+C0103,19942,S,Artesania,,Fornecedor,Positiva
+C0106,48237,S,R3 Reutilizar,,Fornecedor,Positiva
+C0107,17798,N,Não se aplica,,,
+C0108,14033,S,R4 Reparar,R5-R6 Restaurar / remanufaturar,Fornecedor,Positiva
+C0109,34048,N,Não se aplica,,,
+C0110,45513,S,R3 Reutilizar,,Fornecedor,Positiva
+C0116,21758,S,Artesania,R5-R6 Restaurar / remanufaturar,Destino / comunidade,Positiva
+C0131,35599,S,Sustentabilidade declarada,Cadeia local,Fornecedor,Positiva
+C0133,43171,S,R3 Reutilizar,,Fornecedor,Positiva
+C0139,20921,N,Não se aplica,,,
+C0140,49452,N,Não se aplica,,,
+C0146,48573,N,Não se aplica,,,
+C0149,34044,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0159,27426,S,Sustentabilidade declarada,,Destino / comunidade,Positiva
+C0160,34584,N,Não se aplica,,,
+C0171,6973,S,Artesania,,Fornecedor,Positiva
+C0177,20837,N,Não se aplica,,,
+C0178,16203,N,Não se aplica,,,
+C0181,26026,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0184,46607,N,Não se aplica,,,
+C0186,4429,N,Não se aplica,,,
+C0187,25601,S,Artesania,,Fornecedor,Positiva
+C0189,43291,S,R3 Reutilizar,,Fornecedor,Positiva
+C0195,44675,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0200,31063,N,Não se aplica,,,
+C0201,53359,N,Não se aplica,,,
+C0207,12467,N,Não se aplica,,,
+C0208,26141,S,Sustentabilidade declarada,,Visitante,Positiva
+C0210,14041,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C0211,33020,S,Cadeia local,,Fornecedor,Positiva
+C0212,29100,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0214,43071,S,R4 Reparar,,Fornecedor,Positiva
+C0217,38817,S,Artesania,,Fornecedor,Positiva
+C0233,21197,N,Não se aplica,,,
+C0235,15420,N,Não se aplica,,,
+C0236,41946,N,Não se aplica,,,
+C0240,9833,S,R3 Reutilizar,,Fornecedor,Positiva
+C0242,8735,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Negativa
+C0246,24874,N,Não se aplica,,,
+C0250,37593,S,Artesania,,Fornecedor,Positiva
+C0256,38186,N,Não se aplica,,,
+C0257,45186,S,R3 Reutilizar,,Fornecedor,Neutra
+C0261,28841,S,Artesania,,Fornecedor,Positiva
+C0266,2316,S,Artesania,,Fornecedor,Positiva
+C0268,47816,S,Cadeia local,,Fornecedor,Positiva
+C0272,48321,S,Artesania,,Fornecedor,Positiva
+C0276,16561,S,Artesania,,Fornecedor,Positiva
+C0278,5009,N,Não se aplica,,,
+C0279,28865,S,Artesania,,Fornecedor,Positiva
+C0280,51844,S,Cadeia local,Sustentabilidade declarada,Fornecedor,Positiva
+C0284,1567,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0292,892,N,Não se aplica,,,
+C0294,32027,N,Não se aplica,,,
+C0298,23941,N,Não se aplica,,,
+C0301,52916,N,Não se aplica,,,
+C0304,26639,N,Não se aplica,,,
+C0313,42720,N,Não se aplica,,,
+C0318,50896,S,Artesania,,Fornecedor,Positiva
+C0324,54437,S,R3 Reutilizar,Artesania,Fornecedor,Positiva
+C0339,40448,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0340,22746,N,Não se aplica,,,
+C0343,3802,N,Não se aplica,,,
+C0348,32846,S,Cadeia local,,Fornecedor,Positiva
+C0349,38191,S,Cadeia local,,Fornecedor,Positiva
+C0359,21875,N,Não se aplica,,,
+C0361,25715,S,Artesania,,Fornecedor,Positiva
+C0366,32727,S,R4 Reparar,,Fornecedor,Positiva
+C0376,54430,S,Artesania,,Fornecedor,Positiva
+C0378,2839,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0379,16314,N,Não se aplica,,,
+C0381,48368,N,Não se aplica,,,
+C0382,43349,N,Não se aplica,,,
+C0385,5362,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0388,24360,N,Não se aplica,,,
+C0390,24756,S,Artesania,,Fornecedor,Positiva
+C0393,45913,N,Não se aplica,,,
+C0398,1901,N,Não se aplica,,,
+C0399,12387,S,Artesania,,Fornecedor,Positiva
+C0400,40453,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0402,29542,N,Não se aplica,,,
+C0403,3393,S,R8 Reciclar,Artesania,Fornecedor,Positiva
+C0405,50179,S,R4 Reparar,,Fornecedor,Positiva
+C0407,41873,N,Não se aplica,,,
+C0409,44465,S,Cadeia local,,Destino / comunidade,Positiva
+C0420,43346,N,Não se aplica,,,
+C0428,48511,N,Não se aplica,,,
+C0429,45440,N,Não se aplica,,,
+C0435,11133,N,Não se aplica,,,
+C0436,37766,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0446,38952,N,Não se aplica,,,
+C0452,29314,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0458,15421,N,Não se aplica,,,
+C0459,6530,N,Não se aplica,,,
+C0461,27896,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0466,6558,N,Não se aplica,,,
+C0468,45061,S,R3 Reutilizar,,Fornecedor,Neutra
+C0469,31562,N,Não se aplica,,,
+C0480,22407,S,Artesania,,Fornecedor,Positiva
+C0482,14051,S,R4 Reparar,,Fornecedor,Negativa
+C0486,22647,N,Não se aplica,,,
+C0491,48301,S,Artesania,R3 Reutilizar,Fornecedor,Neutra
+C0497,37327,S,R3 Reutilizar,,Fornecedor,Positiva
+C0503,50218,S,R4 Reparar,,Fornecedor,Positiva
+C0506,29101,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0516,48360,N,Não se aplica,,,
+C0522,43405,N,Não se aplica,,,
+C0528,21757,S,Artesania,,Fornecedor,Positiva
+C0529,20066,S,R3 Reutilizar,,Fornecedor,Positiva
+C0537,16480,S,Artesania,,Fornecedor,Positiva
+C0541,42416,S,Cadeia local,,Fornecedor,Positiva
+C0545,32729,S,R4 Reparar,,Fornecedor,Positiva
+C0546,20558,N,Não se aplica,,,
+C0552,29324,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C0553,40497,S,Artesania,,Fornecedor,Positiva
+C0554,15976,S,R4 Reparar,,Fornecedor,Positiva
+C0555,13537,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Negativa
+C0560,29496,S,Sustentabilidade declarada,Artesania,Fornecedor,Positiva
+C0562,18814,S,Artesania,,Visitante,Positiva
+C0570,17231,S,Sustentabilidade declarada,Artesania,Fornecedor,Positiva
+C0576,43336,N,Não se aplica,,,
+C0578,46795,N,Não se aplica,,,
+C0589,3320,N,Não se aplica,,,
+C0591,37331,S,R4 Reparar,,Fornecedor,Positiva
+C0602,1587,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0603,52076,N,Não se aplica,,,
+C0604,51049,S,R4 Reparar,,Fornecedor,Negativa
+C0609,8618,N,Não se aplica,,,
+C0613,14952,S,Artesania,,Fornecedor,Positiva
+C0625,15052,N,Não se aplica,,,
+C0626,41677,S,R4 Reparar,,Fornecedor,Negativa
+C0631,37296,S,R3 Reutilizar,,Fornecedor,Positiva
+C0638,38866,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0641,48619,S,R4 Reparar,,Fornecedor,Negativa
+C0644,36102,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0646,42182,S,R4 Reparar,,Fornecedor,Positiva
+C0647,50878,N,Não se aplica,,,
+C0654,25910,N,Não se aplica,,,
+C0662,12102,S,Cadeia local,,Fornecedor,Neutra
+C0669,53386,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0673,12178,N,Não se aplica,,,
+C0682,50936,S,R4 Reparar,,Fornecedor,Positiva
+C0689,30231,S,Artesania,,Visitante,Positiva
+C0695,6033,N,Não se aplica,,,
+C0697,8506,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0698,10982,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0704,22142,N,Não se aplica,,,
+C0705,37293,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0721,37450,N,Não se aplica,,,
+C0723,7651,S,Artesania,,Fornecedor,Negativa
+C0726,36400,N,Não se aplica,,,
+C0729,29391,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0737,21010,S,Artesania,,Fornecedor,Positiva
+C0740,21263,N,Não se aplica,,,
+C0745,50925,S,Artesania,,Fornecedor,Positiva
+C0748,13533,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0755,29074,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0759,23182,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0760,15425,N,Não se aplica,,,
+C0761,24986,N,Não se aplica,,,
+C0764,52202,N,Não se aplica,,,
+C0765,32986,S,Artesania,,Fornecedor,Positiva
+C0770,48516,S,Artesania,,Fornecedor,Positiva
+C0774,10066,N,Não se aplica,,,
+C0775,50911,S,Artesania,,Destino / comunidade,Neutra
+C0779,20050,S,Cadeia local,,Fornecedor,Positiva
+C0781,2479,S,R3 Reutilizar,,Fornecedor,Positiva
+C0794,40902,N,Não se aplica,,,
+C0795,5558,N,Não se aplica,,,
+C0796,28884,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0798,41696,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C0801,32254,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0804,43088,S,R3 Reutilizar,,Fornecedor,Positiva
+C0817,22431,S,Artesania,,Fornecedor,Positiva
+C0819,28960,N,Não se aplica,,,
+C0820,4463,N,Não se aplica,,,
+C0822,25924,N,Não se aplica,,,
+C0833,54041,S,R3 Reutilizar,,Fornecedor,Positiva
+C0837,24914,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0838,29004,S,Cadeia local,,Fornecedor,Positiva
+C0847,30454,N,Não se aplica,,,
+C0848,26220,N,Não se aplica,,,
+C0854,6404,N,Não se aplica,,,
+C0866,14655,N,Não se aplica,,,
+C0867,14669,N,Não se aplica,,,
+C0872,48303,S,R3 Reutilizar,,Fornecedor,Positiva
+C0877,44815,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0884,48299,S,R3 Reutilizar,,Fornecedor,Positiva
+C0888,33781,N,Não se aplica,,,
+C0892,20130,N,Não se aplica,,,
+C0893,16571,S,Artesania,,Fornecedor,Positiva
+C0895,20798,S,Cadeia local,,Visitante,Positiva
+C0896,12485,N,Não se aplica,,,
+C0897,28480,N,Não se aplica,,,
+C0902,16504,S,R4 Reparar,,Fornecedor,Positiva
+C0903,54040,S,R3 Reutilizar,,Fornecedor,Positiva
+C0906,43739,N,Não se aplica,,,
+C0909,43003,S,R3 Reutilizar,,Fornecedor,Neutra
+C0915,21887,N,Não se aplica,,,
+C0920,52766,N,Não se aplica,,,
+C0923,10855,N,Não se aplica,,,
+C0925,2635,N,Não se aplica,,,
+C0929,17730,N,Não se aplica,,,
+C0940,33648,N,Não se aplica,,,
+C0941,45217,S,R3 Reutilizar,,Fornecedor,Neutra
+C0947,716,N,Não se aplica,,,
+C0949,9329,N,Não se aplica,,,
+C0950,14094,N,Não se aplica,,,
+C0954,24266,N,Não se aplica,,,
+C0957,22679,N,Não se aplica,,,
+C0958,25621,N,Não se aplica,,,
+C0960,35303,S,R4 Reparar,,Fornecedor,Positiva
+C0963,38811,S,Artesania,,Fornecedor,Positiva
+C0966,42650,N,Não se aplica,,,
+C0971,47554,S,R4 Reparar,,Fornecedor,Negativa
+C0972,37871,S,Artesania,,Fornecedor,Positiva
+C0980,30060,S,R5-R6 Restaurar / remanufaturar,,Indeterminado,Neutra
+C0981,30652,S,Artesania,,Fornecedor,Positiva
+C0986,3372,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0987,13512,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Negativa
+C0989,19274,N,Não se aplica,,,
+C0990,13934,S,R4 Reparar,,Fornecedor,Positiva
+C0993,31678,S,R7 Repropor / upcycling,,Destino / comunidade,Positiva
+C0995,53532,N,Não se aplica,,,
+C1002,25708,N,Não se aplica,,,
+C1008,28924,S,Artesania,,Fornecedor,Positiva
+C1024,52444,S,R4 Reparar,,Fornecedor,Neutra
+C1025,40433,S,Artesania,Cadeia local,Fornecedor,Positiva
+C1026,9830,S,R3 Reutilizar,,Fornecedor,Positiva
+C1031,13978,S,Artesania,,Fornecedor,Positiva
+C1033,29477,S,Artesania,,Fornecedor,Negativa
+C1036,13108,N,Não se aplica,,,
+C1038,42236,S,R4 Reparar,,Fornecedor,Positiva
+C1041,36759,S,Artesania,Cadeia local,Fornecedor,Positiva
+C1042,21136,N,Não se aplica,,,
+C1059,38295,N,Não se aplica,,,
+C1060,34475,N,Não se aplica,,,
+C1069,29313,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1077,3262,S,Artesania,,Fornecedor,Positiva
+C1084,42878,S,Cadeia local,Artesania,Fornecedor,Positiva
+C1085,9063,N,Não se aplica,,,
+C1091,44680,N,Não se aplica,,,
+C1099,30001,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C1100,38825,S,Cadeia local,,Visitante,Positiva
+C1101,38909,S,Artesania,,Fornecedor,Positiva
+C1107,28085,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C1108,14294,N,Não se aplica,,,
+C1111,22698,N,Não se aplica,,,
+C1116,41130,N,Não se aplica,,,
+C1131,14030,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C1133,42872,S,R3 Reutilizar,,Fornecedor,Positiva
+C1134,47542,S,R4 Reparar,,Fornecedor,Positiva
+C1140,14703,N,Não se aplica,,,
+C1142,1713,S,Artesania,,Fornecedor,Positiva
+C1143,22410,S,Artesania,,Fornecedor,Positiva
+C1148,25732,N,Não se aplica,,,
+C1153,19075,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C1157,20720,S,Cadeia local,,Fornecedor,Positiva
+C1160,47494,N,Não se aplica,,,
+C1162,11568,N,Não se aplica,,,
+C1165,15937,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C1166,44864,S,Cadeia local,,Fornecedor,Neutra
+C1169,38619,N,Não se aplica,,,
+C1170,5105,S,Sustentabilidade declarada,,Visitante,Positiva
+C1175,17639,N,Não se aplica,,,
+C1176,36621,N,Não se aplica,,,

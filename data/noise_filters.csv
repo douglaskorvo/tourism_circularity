@@ -1,0 +1,5 @@
+regex,description
+desperd[ií]\w*\s+(?:de\s+|do\s+|o\s+|meu\s+|seu\s+|nosso\s+|total\s+de\s+)?(?:dinheiro|tempo|dia|viagem|energia),"""waste of money/time"" idioms"
+\bum lixo\b|\blixo de\b|\bé lixo\b|\bpuro lixo\b|\bque lixo\b,"""rubbish place"" insults"
+\bsobras?\s+(?:de\s+)?(?:funcionári|tempo),"""leftover staff/time"""
+precis\w* de (?:alguns |uns |muitos )?reparos|necessita\w* de (?:alguns )?reparos,"""needs repairs"" (maintenance)"

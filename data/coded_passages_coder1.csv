@@ -1,0 +1,1177 @@
+ID,row_id,País,Cidade,Segmento,Nota,lang,Categoria principal (auto),Categorias (auto),Termos casados,C1_relevante,C1_estrategia,C1_estrategia_2,C1_quem,C1_valencia
+C0001,25717,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0002,38863,Egypt,Luxor,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,feito à mão; plástico,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0003,48300,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,Antiguidades,N,Não se aplica,,,
+C0004,22319,India,Agra,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0005,32209,South Africa,Cape Town,creative,4,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0006,24850,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Neutra
+C0007,6175,Brazil,São Paulo,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0008,50271,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertá,S,R4 Reparar,,Fornecedor,Positiva
+C0009,54499,Iran,Shiraz,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauradas,S,R5-R6 Restaurar / remanufaturar,Cadeia local,Destino / comunidade,Positiva
+C0010,7371,Brazil,São Paulo,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurações,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0011,2955,Brazil,Rio de Janeiro,creative,5,pt,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0012,29448,India,Mumbai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0013,50909,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0014,38480,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Neutra
+C0015,45813,United Arab Emirates,Dubai,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0016,26557,India,Mumbai,mass_market,5,pt-BR,R8 Reciclar,R8,reciclagem,S,R8 Reciclar,,Destino / comunidade,Neutra
+C0017,30225,China,Xi'an,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0018,3669,Brazil,Rio de Janeiro,creative,3,pt,Cadeia local,CL; AR,artesanal; produtos locais,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0019,45134,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0020,13290,Russia,Moscow,mass_market,5,pt-BR,R4 Reparar,R4,consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C0021,7898,Brazil,São Paulo,creative,5,pt,Cadeia local,CL,ingredientes do local,S,Cadeia local,,Fornecedor,Positiva
+C0022,53291,Iran,Tehran,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0023,47575,United Arab Emirates,Dubai,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0024,18856,India,Delhi,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; R3,antiguidades; restaurada,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0025,7192,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0026,36674,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C0027,21752,India,Agra,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0028,42383,Saudi Arabia,Riyadh,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,N,Não se aplica,,,
+C0029,3291,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanais,N,Não se aplica,,,
+C0030,24858,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Destino / comunidade,Negativa
+C0031,14775,Russia,Moscow,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0032,13950,Russia,Moscow,creative,4,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0033,45511,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0034,35680,Egypt,Cairo,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0035,14553,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,Consertamos,S,R4 Reparar,,Fornecedor,Positiva
+C0036,21475,India,Agra,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçando,N,Não se aplica,,,
+C0037,20497,India,Delhi,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0038,32897,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C0039,45516,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0040,24760,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0041,43806,Saudi Arabia,Jeddah,mass_market,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0042,20585,India,Delhi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Negativa
+C0043,11285,Brazil,Foz do Iguaçu,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,canudo,S,Artesania,,Destino / comunidade,Neutra
+C0044,41319,Saudi Arabia,Riyadh,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0045,45324,Saudi Arabia,Al-Ula,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0046,34574,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Neutra
+C0047,35931,Egypt,Cairo,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçaram,N,Não se aplica,,,
+C0048,35204,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesanais; feita à mão,S,Artesania,,Fornecedor,Positiva
+C0049,22004,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanais; embalagens,S,Artesania,,Fornecedor,Neutra
+C0050,13995,Russia,Moscow,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Neutra
+C0051,8693,Brazil,Salvador,mass_market,5,pt,Cadeia local,CL,orgânico,S,Cadeia local,,Destino / comunidade,Neutra
+C0052,20082,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0053,3268,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0054,26027,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0055,18282,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0056,20063,India,Delhi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem; embalagem; plástico,N,Não se aplica,,,
+C0057,30545,China,Shanghai,mass_market,4,pt-BR,R7 Repropor / upcycling,R7,transformado em,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0058,53086,Iran,Tehran,creative,5,pt-BR,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C0059,52093,United Arab Emirates,Sharjah,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0060,53273,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0061,5442,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0062,7327,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0063,27060,India,Mumbai,mass_market,5,pt-BR,R8 Reciclar,R8; R0-2,plástico; reciclagem,S,R8 Reciclar,,Destino / comunidade,Neutra
+C0064,50919,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0065,40419,Ethiopia,Addis Ababa,mass_market,4,pt-BR,Sustentabilidade declarada,SD,ecoturismo,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0066,3684,Brazil,Rio de Janeiro,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2; SD,Sustentável; desperdício,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Positiva
+C0067,53974,Iran,Isfahan,creative,3,pt-BR,R7 Repropor / upcycling,R7; R3,antiguidades; transformada em,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0068,34606,South Africa,Johannesburg,creative,5,pt-BR,R7 Repropor / upcycling,R7,transformado em,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0069,5589,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesã,N,Não se aplica,,,
+C0070,19962,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,S,R0-R2 Recusar / repensar / reduzir,Artesania,Visitante,Positiva
+C0071,24801,India,Jaipur,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0072,29958,China,Beijing,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0073,40444,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0074,9925,Brazil,Salvador,creative,5,pt,R7 Repropor / upcycling,R7; AR,artesanal; transformada em,S,Artesania,,Fornecedor,Positiva
+C0075,39091,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0076,5707,Brazil,São Paulo,creative,1,pt,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Negativa
+C0077,28094,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C0078,19242,India,Delhi,creative,5,pt-BR,Artesania,AR,artesãos,S,Cadeia local,Artesania,Visitante,Positiva
+C0079,8146,Brazil,Salvador,mass_market,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Destino / comunidade,Positiva
+C0080,22534,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0081,29836,China,Beijing,mass_market,5,pt-BR,R7 Repropor / upcycling,R7,transformados em,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0082,5706,Brazil,São Paulo,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0083,38827,Egypt,Luxor,creative,1,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Negativa
+C0084,40189,Ethiopia,Addis Ababa,mass_market,1,pt-BR,R4 Reparar,R4; R0-2,consertar; lixo,N,Não se aplica,,,
+C0085,5394,Brazil,São Paulo,creative,4,pt,R3 Reutilizar,R3,brechó,S,R3 Reutilizar,,Fornecedor,Neutra
+C0086,40740,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0087,32197,South Africa,Cape Town,creative,1,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Visitante,Neutra
+C0088,20398,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Visitante,Positiva
+C0089,45148,Saudi Arabia,Jeddah,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçá,N,Não se aplica,,,
+C0090,2943,Brazil,Rio de Janeiro,creative,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0091,4683,Brazil,São Paulo,mass_market,5,pt,Sustentabilidade declarada,SD; AR,artesanais; sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0092,14095,Russia,Moscow,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0093,23841,India,Jaipur,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0094,14067,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0095,28123,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0096,21802,India,Agra,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0097,40450,Ethiopia,Addis Ababa,creative,5,pt-BR,R8 Reciclar,R8; AR,artesanal; reciclado,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C0098,31564,South Africa,Cape Town,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0099,24838,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0100,47556,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertando,S,R4 Reparar,,Fornecedor,Negativa
+C0101,25976,India,Jaipur,creative,5,pt-BR,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C0102,42337,Saudi Arabia,Riyadh,creative,2,pt-BR,R7 Repropor / upcycling,R7,transformadas em,N,Não se aplica,,,
+C0103,19942,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanais; artesãos,S,Artesania,,Destino / comunidade,Positiva
+C0104,50950,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0105,37311,Egypt,Cairo,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0106,48237,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,antiguidade,S,R3 Reutilizar,,Fornecedor,Positiva
+C0107,17798,India,Delhi,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0108,14033,Russia,Moscow,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; R4; AR,artesãos; consertei; reparos; restauração,S,R4 Reparar,R5-R6 Restaurar / remanufaturar,Fornecedor,Positiva
+C0109,34048,South Africa,Johannesburg,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0110,45513,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0111,43576,Saudi Arabia,Jeddah,mass_market,1,pt-BR,R4 Reparar,R4,consertava,S,R4 Reparar,,Fornecedor,Negativa
+C0112,29284,India,Mumbai,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0113,45000,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,reutilizadas,N,Não se aplica,,,
+C0114,17432,India,Delhi,mass_market,1,pt-BR,R4 Reparar,R4,consertar; consertei,S,R4 Reparar,,Fornecedor,Negativa
+C0115,53982,Iran,Isfahan,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Neutra
+C0116,21758,India,Agra,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; AR,artesãos; restauração,S,Artesania,R5-R6 Restaurar / remanufaturar,Destino / comunidade,Positiva
+C0117,52477,Iran,Tehran,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0118,25569,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0119,43264,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0120,47814,United Arab Emirates,Dubai,creative,4,pt-BR,Cadeia local,CL,ingredientes locais,S,Cadeia local,,Fornecedor,Positiva
+C0121,29866,China,Beijing,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0122,29485,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0123,38969,Egypt,Luxor,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0124,9247,Brazil,Salvador,creative,2,pt,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C0125,6749,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0126,30666,China,Shanghai,creative,4,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0127,17468,India,Delhi,mass_market,1,pt-BR,Cadeia local,CL,fornecedores locais,N,Não se aplica,,,
+C0128,42170,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0129,39733,Ethiopia,Addis Ababa,mass_market,5,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0130,43223,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0131,35599,Egypt,Cairo,mass_market,5,pt-BR,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,Cadeia local,Fornecedor,Positiva
+C0132,13647,Russia,Moscow,mass_market,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurada,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C0133,43171,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0134,6553,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0135,5815,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesã,S,Artesania,,Fornecedor,Positiva
+C0136,5728,Brazil,São Paulo,creative,5,pt,Artesania,AR,FEITA A MÃO,S,Artesania,,Fornecedor,Positiva
+C0137,52765,Iran,Tehran,mass_market,3,pt-BR,R4 Reparar,R4; R0-2,consertando; desperdício,S,R0-R2 Recusar / repensar / reduzir,R4 Reparar,Fornecedor,Negativa
+C0138,49882,United Arab Emirates,Abu Dhabi,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçados,N,Não se aplica,,,
+C0139,20921,India,Agra,mass_market,5,pt-BR,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0140,49452,United Arab Emirates,Abu Dhabi,mass_market,5,pt-BR,R7 Repropor / upcycling,R7,sucata,S,R3 Reutilizar,,Fornecedor,Positiva
+C0141,9024,Brazil,Salvador,creative,5,pt,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0142,4918,Brazil,São Paulo,mass_market,5,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0143,6482,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C0144,33845,South Africa,Johannesburg,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0145,14029,Russia,Moscow,creative,5,pt-BR,R7 Repropor / upcycling,R7,segunda vida,S,R4 Reparar,,Fornecedor,Positiva
+C0146,48573,United Arab Emirates,Dubai,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0147,43073,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0148,52112,United Arab Emirates,Sharjah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0149,34044,South Africa,Johannesburg,mass_market,5,pt-BR,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0150,29317,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0151,50910,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesãos; feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0152,43089,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0153,38424,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0154,19147,India,Delhi,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0155,38795,Egypt,Luxor,mass_market,3,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0156,38771,Egypt,Luxor,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Positiva
+C0157,21698,India,Agra,mass_market,5,pt-BR,Cadeia local,CL,orgânico,N,Não se aplica,,,
+C0158,48238,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0159,27426,India,Mumbai,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; SD,Resíduos; lixo; meio ambiente; sustentável,S,Sustentabilidade declarada,,Destino / comunidade,Positiva
+C0160,34584,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesão,N,Não se aplica,,,
+C0161,39662,Egypt,Aswan,creative,5,pt-BR,R8 Reciclar,R8,reciclar,S,R8 Reciclar,Artesania,Visitante,Positiva
+C0162,32357,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,ingredientes locais,S,Cadeia local,,Fornecedor,Positiva
+C0163,48531,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,reparos,N,Não se aplica,,,
+C0164,36848,Egypt,Cairo,creative,5,pt-BR,Cadeia local,CL; AR,artesanais; orgânicas; orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0165,42418,Saudi Arabia,Riyadh,creative,5,pt-BR,Cadeia local,CL,orgânico,S,Cadeia local,,Visitante,Neutra
+C0166,12627,Brazil,Foz do Iguaçu,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0167,44865,Saudi Arabia,Jeddah,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; AR,artesanal; artesão; restauração,S,Artesania,,Destino / comunidade,Positiva
+C0168,16463,Russia,Saint Petersburg,creative,5,pt-BR,R7 Repropor / upcycling,R7; R5-6,restaurada; restauração; transformado em,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0169,25726,India,Jaipur,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0170,9249,Brazil,Salvador,creative,2,pt,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0171,6973,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesanais,N,Não se aplica,,,
+C0172,42863,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,Antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0173,26140,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0174,50278,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0175,51062,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Visitante,Positiva
+C0176,24930,India,Jaipur,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0177,20837,India,Agra,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0178,16203,Russia,Saint Petersburg,creative,4,pt-BR,R4 Reparar,R4,consertam,S,R4 Reparar,,Fornecedor,Positiva
+C0179,32728,South Africa,Cape Town,creative,1,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0180,16279,Russia,Saint Petersburg,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartável,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Negativa
+C0181,26026,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0182,52380,Iran,Tehran,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0183,48241,United Arab Emirates,Dubai,creative,5,pt-BR,Cadeia local,CL; AR,artesanais; feito à mão; produtos no local,S,Artesania,Cadeia local,Destino / comunidade,Positiva
+C0184,46607,United Arab Emirates,Dubai,mass_market,5,pt-BR,R4 Reparar,R4,consertado; conserte; consertávamos,S,R4 Reparar,,Fornecedor,Neutra
+C0185,42186,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertar; reparo; reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0186,4429,Brazil,São Paulo,mass_market,5,pt,R4 Reparar,R4,conserteza,N,Não se aplica,,,
+C0187,25601,India,Jaipur,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0188,44907,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0189,43291,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0190,22902,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Neutra
+C0191,19985,India,Delhi,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0192,15372,Russia,Saint Petersburg,mass_market,1,pt-BR,R4 Reparar,R4,reparada,S,R4 Reparar,,Destino / comunidade,Neutra
+C0193,17183,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0194,13788,Russia,Moscow,mass_market,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,S,R7 Repropor / upcycling,,Visitante,Neutra
+C0195,44675,Saudi Arabia,Jeddah,creative,1,pt-BR,R7 Repropor / upcycling,R7,transformada em,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Negativa
+C0196,38949,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0197,13140,Russia,Moscow,mass_market,1,pt-BR,R4 Reparar,R4,consertar; consertá,S,R4 Reparar,,Fornecedor,Negativa
+C0198,47775,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,N,Não se aplica,,,
+C0199,46818,United Arab Emirates,Dubai,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçar,N,Não se aplica,,,
+C0200,31063,South Africa,Cape Town,mass_market,1,pt-BR,R4 Reparar,R4,reparar,N,Não se aplica,,,
+C0201,53359,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0202,54075,Iran,Isfahan,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0203,48697,United Arab Emirates,Dubai,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0204,22384,India,Agra,creative,1,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; R4,consertar; restauração,S,R5-R6 Restaurar / remanufaturar,,Visitante,Neutra
+C0205,30880,South Africa,Cape Town,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçada,N,Não se aplica,,,
+C0206,19091,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanal; embalagem,S,Artesania,,Fornecedor,Positiva
+C0207,12467,Brazil,Foz do Iguaçu,creative,1,pt,R3 Reutilizar,R3,segunda mão,N,Não se aplica,,,
+C0208,26141,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Visitante,Positiva
+C0209,53589,Iran,Isfahan,mass_market,1,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0210,14041,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C0211,33020,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0212,29100,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0213,41425,Saudi Arabia,Riyadh,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçamos,N,Não se aplica,,,
+C0214,43071,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertaria; consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0215,9532,Brazil,Salvador,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0216,20423,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0217,38817,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; artesanais,S,Artesania,,Fornecedor,Positiva
+C0218,37794,Egypt,Cairo,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçadas,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Negativa
+C0219,14032,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertei,S,R4 Reparar,,Fornecedor,Positiva
+C0220,40711,Ethiopia,Addis Ababa,creative,5,pt-BR,Cadeia local,CL,comércio justo; produtos locais,S,Cadeia local,,Visitante,Positiva
+C0221,48246,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0222,26598,India,Mumbai,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0223,21929,India,Agra,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiça,N,Não se aplica,,,
+C0224,11352,Brazil,Foz do Iguaçu,mass_market,5,pt,R8 Reciclar,R8,recicláveis,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C0225,29907,China,Beijing,mass_market,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauradas,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0226,30446,China,Shanghai,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0227,9208,Brazil,Salvador,creative,3,pt,Sustentabilidade declarada,SD,sustentável,N,Não se aplica,,,
+C0228,44274,Saudi Arabia,Jeddah,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0229,47793,United Arab Emirates,Dubai,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Sobras,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Neutra
+C0230,13917,Russia,Moscow,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; R3; R0-2; AR,artesanais; embalagem; restauração; vintage,S,R5-R6 Restaurar / remanufaturar,Artesania,Fornecedor,Positiva
+C0231,14855,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0232,15985,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4,consertar; reparo; reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0233,21197,India,Agra,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0234,28919,India,Mumbai,creative,4,pt-BR,R4 Reparar,R4; R0-2,consertar; embalagem,S,R4 Reparar,,Visitante,Neutra
+C0235,15420,Russia,Saint Petersburg,mass_market,1,pt-BR,R4 Reparar,R4,consertou; reparos,S,R4 Reparar,,Indeterminado,Negativa
+C0236,41946,Saudi Arabia,Riyadh,mass_market,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0237,3258,Brazil,Rio de Janeiro,creative,5,pt,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0238,44713,Saudi Arabia,Jeddah,creative,3,pt-BR,R4 Reparar,R4,consertem,N,Não se aplica,,,
+C0239,25628,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais; feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0240,9833,Brazil,Salvador,creative,5,pt,R3 Reutilizar,R3,Antiquário,S,R3 Reutilizar,,Fornecedor,Positiva
+C0241,38989,Egypt,Luxor,creative,5,pt-BR,Cadeia local,CL,comércio justo,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0242,8735,Brazil,Salvador,mass_market,4,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0243,10152,Brazil,Salvador,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C0244,21650,India,Agra,mass_market,5,pt-BR,Artesania,AR,artesãos,N,Não se aplica,,,
+C0245,26038,India,Jaipur,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0246,24874,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0247,28909,India,Mumbai,creative,5,pt-BR,Cadeia local,CL; AR,feitos à mão; orgânico,S,Cadeia local,,Fornecedor,Positiva
+C0248,30245,China,Xi'an,creative,5,pt-BR,R3 Reutilizar,R3,reaproveitando,S,R3 Reutilizar,,Fornecedor,Negativa
+C0249,44869,Saudi Arabia,Jeddah,creative,5,pt-BR,R4 Reparar,R4,consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C0250,37593,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0251,14045,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,conserto; consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0252,53743,Iran,Isfahan,creative,5,pt-BR,R3 Reutilizar,R3,antiquário,S,R3 Reutilizar,,Fornecedor,Neutra
+C0253,36242,Egypt,Cairo,mass_market,5,pt-BR,Cadeia local,CL,comida egípcia local,N,Não se aplica,,,
+C0254,43277,Saudi Arabia,Riyadh,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0255,39107,Egypt,Luxor,creative,5,pt-BR,Cadeia local,CL; AR,artesanais; produtos artesanais locais,S,Cadeia local,Artesania,Fornecedor,Neutra
+C0256,38186,Egypt,Luxor,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo; sobra,S,Cadeia local,,Destino / comunidade,Neutra
+C0257,45186,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; plásticos,S,R3 Reutilizar,,Fornecedor,Neutra
+C0258,52469,Iran,Tehran,mass_market,1,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0259,26218,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0260,22766,India,Agra,creative,5,pt-BR,R4 Reparar,R4,consertam,S,R4 Reparar,,Destino / comunidade,Neutra
+C0261,28841,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0262,34541,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesãos,N,Não se aplica,,,
+C0263,28975,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0264,15686,Russia,Saint Petersburg,mass_market,2,pt-BR,R4 Reparar,R4,consertá,N,Não se aplica,,,
+C0265,8699,Brazil,Salvador,mass_market,5,pt,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0266,2316,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesã,S,Artesania,,Fornecedor,Positiva
+C0267,50842,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R4 Reparar,R4,reparações,N,Não se aplica,,,
+C0268,47816,United Arab Emirates,Dubai,creative,5,pt-BR,Cadeia local,CL,ingredientes locais,S,Cadeia local,,Fornecedor,Positiva
+C0269,50857,United Arab Emirates,Abu Dhabi,creative,4,pt-BR,Cadeia local,CL,orgânico,S,Cadeia local,,Fornecedor,Positiva
+C0270,48309,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,Feitos à mão; ambientalmente; artesanais; artesanal; sustentabilidade; sustentáveis; sustentável,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0271,43265,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0272,48321,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0273,29594,China,Beijing,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0274,41703,Saudi Arabia,Riyadh,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçando,N,Não se aplica,,,
+C0275,34800,South Africa,Johannesburg,creative,4,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0276,16561,Russia,Saint Petersburg,creative,5,pt-BR,Artesania,AR,Artesãos,S,Artesania,,Fornecedor,Positiva
+C0277,51282,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0278,5009,Brazil,São Paulo,mass_market,1,pt,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0279,28865,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C0280,51844,United Arab Emirates,Sharjah,creative,5,pt-BR,Sustentabilidade declarada,SD; CL,ecológicos; orgânicos,S,Cadeia local,Sustentabilidade declarada,Fornecedor,Positiva
+C0281,15342,Russia,Saint Petersburg,mass_market,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Desperdiçou,N,Não se aplica,,,
+C0282,28053,India,Mumbai,creative,5,pt-BR,Artesania,AR,feita à mão,S,Artesania,,Fornecedor,Positiva
+C0283,16514,Russia,Saint Petersburg,creative,4,pt-BR,R4 Reparar,R4,conserte,N,Não se aplica,,,
+C0284,1567,Brazil,Rio de Janeiro,creative,5,pt,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0285,20706,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Neutra
+C0286,35642,Egypt,Cairo,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0287,32999,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,orgânicas,N,Não se aplica,,,
+C0288,50047,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R3 Reutilizar,Artesania,Fornecedor,Neutra
+C0289,7255,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0290,33449,South Africa,Johannesburg,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçar,N,Não se aplica,,,
+C0291,1700,Brazil,Rio de Janeiro,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0292,892,Brazil,Rio de Janeiro,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0293,37613,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesãos; feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0294,32027,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0295,39101,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0296,20561,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0297,5796,Brazil,São Paulo,creative,5,pt,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0298,23941,India,Jaipur,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0299,43259,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertaria,N,Não se aplica,,,
+C0300,26009,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais; feitos à mão,N,Não se aplica,,,
+C0301,52916,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0302,6146,Brazil,São Paulo,creative,2,pt,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Neutra
+C0303,42174,Saudi Arabia,Riyadh,creative,2,pt-BR,R4 Reparar,R4,consertam,S,R4 Reparar,,Fornecedor,Negativa
+C0304,26639,India,Mumbai,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçando,N,Não se aplica,,,
+C0305,21873,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0306,16484,Russia,Saint Petersburg,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0307,34530,South Africa,Johannesburg,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0308,2337,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0309,44967,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0310,22372,India,Agra,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0311,42468,Saudi Arabia,Riyadh,creative,3,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,N,Não se aplica,,,
+C0312,50947,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0313,42720,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0314,29863,China,Beijing,mass_market,3,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0315,48255,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0316,32726,South Africa,Cape Town,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0317,3866,Brazil,Rio de Janeiro,creative,3,pt,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Neutra
+C0318,50896,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanais; lixo,S,Artesania,,Fornecedor,Positiva
+C0319,22537,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0320,32869,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,S,Artesania,,Fornecedor,Positiva
+C0321,42869,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; artesanais,S,R3 Reutilizar,,Fornecedor,Neutra
+C0322,53918,Iran,Isfahan,creative,3,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0323,14830,Russia,Moscow,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,R3 Reutilizar,,Fornecedor,Positiva
+C0324,54437,Iran,Shiraz,creative,5,pt-BR,R3 Reutilizar,R3,reaproveitadas,S,R3 Reutilizar,Artesania,Fornecedor,Positiva
+C0325,51429,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Cadeia local,CL,produtos regionais,S,Cadeia local,,Fornecedor,Positiva
+C0326,40186,Ethiopia,Addis Ababa,mass_market,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0327,1773,Brazil,Rio de Janeiro,creative,5,pt-BR,R3 Reutilizar,R3; AR,artesãos; segunda mão,S,R3 Reutilizar,,Fornecedor,Positiva
+C0328,21837,India,Agra,creative,4,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0329,8296,Brazil,Salvador,mass_market,5,pt,Sustentabilidade declarada,SD,ecoturismo,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0330,7204,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,S,Artesania,,Visitante,Neutra
+C0331,6791,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,S,Artesania,,Visitante,Neutra
+C0332,17705,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,comida local,S,Cadeia local,,Destino / comunidade,Neutra
+C0333,14283,Russia,Moscow,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçados,N,Não se aplica,,,
+C0334,36229,Egypt,Cairo,mass_market,5,pt-BR,Cadeia local,CL,comida da região,N,Não se aplica,,,
+C0335,22536,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0336,6055,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0337,14046,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0338,50262,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0339,40448,Ethiopia,Addis Ababa,creative,5,pt-BR,Cadeia local,CL,cooperativa de mulheres,S,Cadeia local,Artesania,Fornecedor,Neutra
+C0340,22746,India,Agra,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0341,7010,Brazil,São Paulo,creative,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0342,19484,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0343,3802,Brazil,Rio de Janeiro,creative,4,pt,Artesania,AR,artesanal,N,Não se aplica,,,
+C0344,52390,Iran,Tehran,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecoturismo,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0345,13535,Russia,Moscow,mass_market,2,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Negativa
+C0346,23542,India,Jaipur,mass_market,5,pt-BR,Artesania,AR,artesãos,N,Não se aplica,,,
+C0347,34386,South Africa,Johannesburg,creative,5,pt-BR,R7 Repropor / upcycling,R7,Upcycle,N,Não se aplica,,,
+C0348,32846,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C0349,38191,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0350,24963,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais; artesãos,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0351,9636,Brazil,Salvador,creative,5,pt,R3 Reutilizar,R3,antiquário,S,R3 Reutilizar,,Fornecedor,Positiva
+C0352,15405,Russia,Saint Petersburg,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0353,40458,Ethiopia,Addis Ababa,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,R7 Repropor / upcycling,,Fornecedor,Positiva
+C0354,16521,Russia,Saint Petersburg,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0355,36576,Egypt,Cairo,mass_market,5,pt-BR,R4 Reparar,R4,consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C0356,37297,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0357,27470,India,Mumbai,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0358,16455,Russia,Saint Petersburg,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0359,21875,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0360,14065,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar; conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0361,25715,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanais; embalagem,S,Artesania,,Fornecedor,Positiva
+C0362,19903,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem,N,Não se aplica,,,
+C0363,38642,Egypt,Luxor,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0364,54443,Iran,Shiraz,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0365,6803,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0366,32727,South Africa,Cape Town,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0367,45530,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0368,27613,India,Mumbai,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,Artesania,,Destino / comunidade,Positiva
+C0369,40899,Ethiopia,Lalibela,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0370,22550,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0371,25730,India,Jaipur,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0372,14240,Russia,Moscow,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0373,22767,India,Agra,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,resíduos,N,Não se aplica,,,
+C0374,50937,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R4 Reparar,R4,consertei; reparo,S,R4 Reparar,,Fornecedor,Negativa
+C0375,18115,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0376,54430,Iran,Shiraz,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0377,39541,Egypt,Aswan,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C0378,2839,Brazil,Rio de Janeiro,creative,5,pt,R7 Repropor / upcycling,R7,transformado em,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0379,16314,Russia,Saint Petersburg,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0380,48222,United Arab Emirates,Dubai,creative,4,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0381,48368,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertei; consertou,N,Não se aplica,,,
+C0382,43349,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0383,5371,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,ecológica,S,Artesania,Sustentabilidade declarada,Visitante,Positiva
+C0384,42156,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0385,5362,Brazil,São Paulo,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0386,44946,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0387,32315,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0388,24360,India,Jaipur,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0389,42749,Saudi Arabia,Riyadh,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0390,24756,India,Jaipur,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0391,27473,India,Mumbai,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0392,29652,China,Beijing,mass_market,4,pt,Cadeia local,CL,produtores locais,S,Cadeia local,,Destino / comunidade,Neutra
+C0393,45913,United Arab Emirates,Dubai,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0394,42982,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0395,44833,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0396,26068,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0397,37738,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; feitas à mão,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0398,1901,Brazil,Rio de Janeiro,creative,5,pt,R3 Reutilizar,R3,produtos usados,N,Não se aplica,,,
+C0399,12387,Brazil,Foz do Iguaçu,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0400,40453,Ethiopia,Addis Ababa,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológico; sustentável,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0401,42187,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0402,29542,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0403,3393,Brazil,Rio de Janeiro,creative,5,pt,R8 Reciclar,R8,reciclado,S,R8 Reciclar,Artesania,Fornecedor,Positiva
+C0404,54240,Iran,Shiraz,mass_market,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0405,50179,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,Consertei,S,R4 Reparar,,Fornecedor,Positiva
+C0406,21178,India,Agra,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológico,N,Não se aplica,,,
+C0407,41873,Saudi Arabia,Riyadh,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0408,54083,Iran,Isfahan,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0409,44465,Saudi Arabia,Jeddah,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Destino / comunidade,Positiva
+C0410,48179,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0411,21083,India,Agra,mass_market,1,pt-BR,R4 Reparar,R4,conserte,N,Não se aplica,,,
+C0412,47222,United Arab Emirates,Dubai,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,N,Não se aplica,,,
+C0413,20149,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,artesãos; feitos à mão; sustentáveis,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0414,28977,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0415,48515,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,feitos à mão; sustentáveis,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0416,42157,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertei,S,R4 Reparar,,Visitante,Neutra
+C0417,28834,India,Mumbai,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0418,19997,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0419,42920,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0420,43346,Saudi Arabia,Riyadh,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0421,2481,Brazil,Rio de Janeiro,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,Artesania,Fornecedor,Neutra
+C0422,32734,South Africa,Cape Town,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0423,39070,Egypt,Luxor,creative,5,pt-BR,Artesania,AR,Artesãos; artesanais,S,Artesania,,Fornecedor,Positiva
+C0424,17103,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,fornecedores regionais,N,Não se aplica,,,
+C0425,25535,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0426,40820,Ethiopia,Addis Ababa,creative,4,pt-BR,R3 Reutilizar,R3,vintage,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0427,37300,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0428,48511,United Arab Emirates,Dubai,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0429,45440,Saudi Arabia,Al-Ula,mass_market,4,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,N,Não se aplica,,,
+C0430,36811,Egypt,Cairo,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C0431,40999,Ethiopia,Lalibela,creative,5,pt-BR,Cadeia local,CL,comida tradicional local,S,Cadeia local,,Fornecedor,Positiva
+C0432,42159,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0433,24866,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0434,24733,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0435,11133,Brazil,Foz do Iguaçu,mass_market,2,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0436,37766,Egypt,Cairo,creative,5,pt,R3 Reutilizar,R3; AR,artesanais; vintage,S,R3 Reutilizar,Artesania,Fornecedor,Positiva
+C0437,19896,India,Delhi,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,Artesania,,Fornecedor,Positiva
+C0438,43035,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0439,19950,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0440,14043,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertei,S,R4 Reparar,R5-R6 Restaurar / remanufaturar,Fornecedor,Positiva
+C0441,40988,Ethiopia,Lalibela,creative,5,pt-BR,Cadeia local,CL,comida local,S,Cadeia local,,Fornecedor,Positiva
+C0442,42145,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0443,30014,China,Beijing,creative,3,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Negativa
+C0444,20102,India,Delhi,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,Artesania,,Fornecedor,Positiva
+C0445,50169,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0446,38952,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0447,51401,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,N,Não se aplica,,,
+C0448,20124,India,Delhi,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0449,9718,Brazil,Salvador,creative,2,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0450,20559,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0451,12023,Brazil,Foz do Iguaçu,creative,4,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0452,29314,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0453,47578,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C0454,19947,India,Delhi,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0455,5608,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0456,24821,India,Jaipur,creative,1,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Negativa
+C0457,8587,Brazil,Salvador,mass_market,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0458,15421,Russia,Saint Petersburg,mass_market,2,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0459,6530,Brazil,São Paulo,creative,5,pt,R3 Reutilizar,R3,peças sejam usadas,N,Não se aplica,,,
+C0460,28869,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0461,27896,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0462,24978,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem,N,Não se aplica,,,
+C0463,14612,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Neutra
+C0464,15503,Russia,Saint Petersburg,mass_market,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0465,29064,India,Mumbai,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0466,6558,Brazil,São Paulo,creative,1,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C0467,38865,Egypt,Luxor,creative,5,pt-BR,Cadeia local,CL,Comércio justo,S,Cadeia local,,Fornecedor,Positiva
+C0468,45061,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0469,31562,South Africa,Cape Town,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0470,51845,United Arab Emirates,Sharjah,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos; sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0471,23469,India,Jaipur,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0472,9017,Brazil,Salvador,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,Artesania,,Fornecedor,Negativa
+C0473,24694,India,Jaipur,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0474,20300,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanal; feito à mão,S,Artesania,,Destino / comunidade,Positiva
+C0475,29579,China,Beijing,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauradas,N,Não se aplica,,,
+C0476,2850,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesãos; artesãs,S,Artesania,Cadeia local,Destino / comunidade,Positiva
+C0477,14022,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0478,32361,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,ingredientes locais,S,Cadeia local,,Fornecedor,Positiva
+C0479,2895,Brazil,Rio de Janeiro,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0480,22407,India,Agra,creative,5,pt-BR,Artesania,AR,Feitas à Mão; artesanal,S,Artesania,,Fornecedor,Positiva
+C0481,38988,Egypt,Luxor,creative,5,pt-BR,Cadeia local,CL; AR,comércio justo; feita à mão,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0482,14051,Russia,Moscow,creative,2,pt-BR,R4 Reparar,R4,consertá,S,R4 Reparar,,Fornecedor,Negativa
+C0483,25714,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C0484,36974,Egypt,Cairo,creative,5,pt-BR,Cadeia local,CL,ingredientes locais,S,Cadeia local,,Fornecedor,Positiva
+C0485,6356,Brazil,São Paulo,creative,5,pt,R8 Reciclar,R8; SD,recicláveis; sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0486,22647,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0487,48514,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0488,40875,Ethiopia,Lalibela,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0489,35884,Egypt,Cairo,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,Restauração,N,Não se aplica,,,
+C0490,34730,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0491,48301,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; feitos à mão,S,R3 Reutilizar,Artesania,Fornecedor,Neutra
+C0492,18802,India,Delhi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiça,N,Não se aplica,,,
+C0493,16943,Russia,Saint Petersburg,creative,4,pt,Artesania,AR,artesanais,N,Não se aplica,,,
+C0494,42361,Saudi Arabia,Riyadh,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0495,26808,India,Mumbai,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0496,45515,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0497,37327,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0498,14569,Russia,Moscow,creative,3,pt-BR,R4 Reparar,R4,Consertem,N,Não se aplica,,,
+C0499,4280,Brazil,São Paulo,mass_market,1,pt,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0500,38871,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,R3 Reutilizar,,Fornecedor,Neutra
+C0501,6750,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,meio ambiente; sustentável,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0502,33186,South Africa,Cape Town,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,N,Não se aplica,,,
+C0503,50218,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0504,19256,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0505,34587,South Africa,Johannesburg,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0506,29101,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0507,19212,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0508,20056,India,Delhi,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,Artesania,Fornecedor,Neutra
+C0509,23138,India,Agra,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurou,N,Não se aplica,,,
+C0510,20684,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0511,48147,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0512,22617,India,Agra,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0513,28938,India,Mumbai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0514,42848,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; embalagens,S,R3 Reutilizar,,Fornecedor,Neutra
+C0515,28199,India,Mumbai,creative,5,pt-BR,Cadeia local,CL,comércio justo; orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0516,48360,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0517,16078,Russia,Saint Petersburg,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurar,N,Não se aplica,,,
+C0518,39540,Egypt,Aswan,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0519,3132,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C0520,13534,Russia,Moscow,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0521,20248,India,Delhi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdícios,N,Não se aplica,,,
+C0522,43405,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0523,1792,Brazil,Rio de Janeiro,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0524,8972,Brazil,Salvador,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0525,48554,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0526,51858,United Arab Emirates,Sharjah,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0527,32331,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C0528,21757,India,Agra,creative,5,pt-BR,Artesania,AR,artesanal; artesãos,S,Artesania,,Fornecedor,Positiva
+C0529,20066,India,Delhi,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0530,4666,Brazil,São Paulo,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0531,32163,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0532,18975,India,Delhi,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0533,6405,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0534,2424,Brazil,Rio de Janeiro,creative,1,pt,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0535,18260,India,Delhi,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0536,9720,Brazil,Salvador,creative,5,pt,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0537,16480,Russia,Saint Petersburg,creative,5,pt-BR,R7 Repropor / upcycling,R7,sucata,S,Artesania,,Fornecedor,Positiva
+C0538,48190,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0539,32800,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Destino / comunidade,Positiva
+C0540,24990,India,Jaipur,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0541,42416,Saudi Arabia,Riyadh,creative,5,pt-BR,Cadeia local,CL,orgânicas,S,Cadeia local,,Fornecedor,Positiva
+C0542,17209,India,Delhi,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0543,6600,Brazil,São Paulo,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0544,53402,Iran,Isfahan,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; SD,ecológicos; restaurado; sustentável,S,R5-R6 Restaurar / remanufaturar,Sustentabilidade declarada,Fornecedor,Positiva
+C0545,32729,South Africa,Cape Town,creative,5,pt-BR,R4 Reparar,R4,consertando; consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0546,20558,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0547,14651,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Visitante,Positiva
+C0548,16910,Russia,Saint Petersburg,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0549,51048,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R4 Reparar,R4,consertar; conserto; consertá,S,R4 Reparar,,Fornecedor,Negativa
+C0550,39553,Egypt,Aswan,creative,5,pt-BR,Artesania,AR,artesão; feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0551,42846,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0552,29324,India,Mumbai,creative,5,pt-BR,R4 Reparar,R4,Consertei,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C0553,40497,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0554,15976,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4,consertar; consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0555,13537,Russia,Moscow,mass_market,3,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Negativa
+C0556,29295,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0557,54639,Iran,Shiraz,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,Cadeia local,Fornecedor,Neutra
+C0558,51331,United Arab Emirates,Abu Dhabi,creative,4,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Visitante,Neutra
+C0559,51492,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Cadeia local,CL,orgânica; orgânico,S,Cadeia local,,Fornecedor,Positiva
+C0560,29496,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0561,48694,United Arab Emirates,Dubai,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0562,18814,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Visitante,Positiva
+C0563,44463,Saudi Arabia,Jeddah,creative,4,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C0564,29822,China,Beijing,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurar,N,Não se aplica,,,
+C0565,10699,Brazil,Foz do Iguaçu,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0566,6552,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0567,30010,China,Beijing,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Positiva
+C0568,18961,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0569,12310,Brazil,Foz do Iguaçu,creative,3,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C0570,17231,India,Delhi,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0571,20001,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0572,24737,India,Jaipur,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0573,15949,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4,consertado,S,R4 Reparar,,Fornecedor,Positiva
+C0574,8558,Brazil,Salvador,mass_market,3,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0575,13895,Russia,Moscow,mass_market,5,pt-BR,R4 Reparar,R4,consertando,N,Não se aplica,,,
+C0576,43336,Saudi Arabia,Riyadh,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0577,26044,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0578,46795,United Arab Emirates,Dubai,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0579,19438,India,Delhi,creative,5,pt-BR,Cadeia local,CL,orgânicas,S,Cadeia local,,Fornecedor,Positiva
+C0580,42882,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0581,47552,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0582,48779,United Arab Emirates,Dubai,creative,3,pt-BR,R4 Reparar,R4,consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C0583,43404,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Neutra
+C0584,28967,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0585,3817,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanais,N,Não se aplica,,,
+C0586,25799,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0587,15662,Russia,Saint Petersburg,mass_market,5,pt-BR,R4 Reparar,R4,Consertamos; reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0588,34176,South Africa,Johannesburg,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0589,3320,Brazil,Rio de Janeiro,creative,5,pt,Cadeia local,CL,comida no local,N,Não se aplica,,,
+C0590,9630,Brazil,Salvador,creative,5,pt,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C0591,37331,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0592,10598,Brazil,Salvador,creative,5,pt,Artesania,AR,artesanal,N,Não se aplica,,,
+C0593,44553,Saudi Arabia,Jeddah,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0594,29013,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesãos,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0595,49557,United Arab Emirates,Abu Dhabi,mass_market,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0596,32880,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0597,36864,Egypt,Cairo,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0598,25175,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C0599,6912,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesanais; feito a mão,S,Artesania,,Fornecedor,Positiva
+C0600,32795,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,Feito à mão,S,Artesania,,Fornecedor,Positiva
+C0601,19178,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0602,1587,Brazil,Rio de Janeiro,creative,5,pt,R7 Repropor / upcycling,R7; R3; CL,orgânicas; reaproveitada; reuso; reuso adaptativo,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0603,52076,United Arab Emirates,Sharjah,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartável,N,Não se aplica,,,
+C0604,51049,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0605,25174,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,artesanais; ecológica,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0606,37391,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0607,36296,Egypt,Cairo,mass_market,5,pt-BR,R3 Reutilizar,R3,Antiguidade,N,Não se aplica,,,
+C0608,48335,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,artesanais; artesãos; sustentabilidade,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0609,8618,Brazil,Salvador,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens; lixo,N,Não se aplica,,,
+C0610,32085,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0611,40403,Ethiopia,Addis Ababa,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0612,36637,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Destino / comunidade,Neutra
+C0613,14952,Russia,Moscow,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0614,25880,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0615,48328,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0616,15225,Russia,Saint Petersburg,mass_market,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0617,27199,India,Mumbai,mass_market,5,pt-BR,R3 Reutilizar,R3,Vintage,N,Não se aplica,,,
+C0618,42866,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,Antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0619,29275,India,Mumbai,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0620,45248,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; embalagem,S,R3 Reutilizar,,Fornecedor,Neutra
+C0621,44827,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,Antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0622,20039,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; CL,comércio justo; embalagem,S,Cadeia local,Artesania,Fornecedor,Neutra
+C0623,19938,India,Delhi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0624,34797,South Africa,Johannesburg,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0625,15052,Russia,Saint Petersburg,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,N,Não se aplica,,,
+C0626,41677,Saudi Arabia,Riyadh,mass_market,1,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Negativa
+C0627,37393,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0628,39740,Ethiopia,Addis Ababa,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0629,5769,Brazil,São Paulo,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6; AR,artesanal; restaurados,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0630,48423,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0631,37296,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0632,19931,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicas,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0633,25546,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0634,11532,Brazil,Foz do Iguaçu,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0635,46177,United Arab Emirates,Dubai,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0636,26036,India,Jaipur,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0637,20430,India,Delhi,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0638,38866,Egypt,Luxor,creative,5,pt-BR,Cadeia local,CL; AR,artesanais; comércio justo,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0639,47288,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,R3 Reutilizar,Cadeia local,Fornecedor,Neutra
+C0640,38057,Egypt,Luxor,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidade,N,Não se aplica,,,
+C0641,48619,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertada; reparo,N,Não se aplica,,,
+C0642,16397,Russia,Saint Petersburg,creative,1,pt-BR,R4 Reparar,R4; CL; AR,artesãos; consertaram; consertarão; produtos locais,S,R4 Reparar,,Visitante,Positiva
+C0643,53276,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0644,36102,Egypt,Cairo,mass_market,5,pt-BR,Cadeia local,CL; AR,feito à mão; fornecedores locais,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0645,54537,Iran,Shiraz,creative,5,pt-BR,Artesania,AR,artesão,S,Artesania,,Fornecedor,Positiva
+C0646,42182,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertada; conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0647,50878,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0648,44744,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0649,209,Brazil,Rio de Janeiro,mass_market,1,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C0650,40661,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0651,663,Brazil,Rio de Janeiro,mass_market,5,pt-BR,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0652,48349,United Arab Emirates,Dubai,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdice; desperdiçou,N,Não se aplica,,,
+C0653,38812,Egypt,Luxor,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0654,25910,India,Jaipur,creative,5,pt-BR,R3 Reutilizar,R3,produtos usados,N,Não se aplica,,,
+C0655,14911,Russia,Moscow,creative,1,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0656,42264,Saudi Arabia,Riyadh,creative,3,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0657,27869,India,Mumbai,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0658,45089,Saudi Arabia,Jeddah,creative,1,pt-BR,R4 Reparar,R4,consertado,S,R4 Reparar,,Visitante,Negativa
+C0659,26280,India,Jaipur,creative,5,pt-BR,R7 Repropor / upcycling,R7; R0-2; SD,desperdício; sustentabilidade; upcycling,S,R7 Repropor / upcycling,R0-R2 Recusar / repensar / reduzir,Fornecedor,Positiva
+C0660,24799,India,Jaipur,creative,5,pt-BR,Artesania,AR,feita à mão,S,Artesania,,Fornecedor,Positiva
+C0661,33047,South Africa,Cape Town,creative,5,pt-BR,Sustentabilidade declarada,SD; CL,orgânica; orgânico; sustentabilidade; sustentáveis,S,Cadeia local,Sustentabilidade declarada,Fornecedor,Positiva
+C0662,12102,Brazil,Foz do Iguaçu,creative,4,pt,Cadeia local,CL,produtores locais; produtos regionais,S,Cadeia local,,Fornecedor,Neutra
+C0663,53279,Iran,Tehran,creative,5,pt-BR,R3 Reutilizar,R3,antiguidade,N,Não se aplica,,,
+C0664,30656,China,Shanghai,creative,3,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0665,27968,India,Mumbai,creative,5,pt-BR,Cadeia local,CL,orgânico,S,Cadeia local,,Fornecedor,Positiva
+C0666,43706,Saudi Arabia,Jeddah,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0667,50543,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Positiva
+C0668,53272,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0669,53386,Iran,Isfahan,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurada; restauradas,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0670,28175,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0671,34217,South Africa,Johannesburg,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0672,44814,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,,Fornecedor,Positiva
+C0673,12178,Brazil,Foz do Iguaçu,creative,5,pt,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0674,2855,Brazil,Rio de Janeiro,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0675,43287,Saudi Arabia,Riyadh,creative,2,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; plástico,S,R3 Reutilizar,,Fornecedor,Neutra
+C0676,39696,Ethiopia,Addis Ababa,mass_market,5,pt-BR,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0677,40101,Ethiopia,Addis Ababa,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,S,Cadeia local,,Destino / comunidade,Positiva
+C0678,43243,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem; embalagens,N,Não se aplica,,,
+C0679,44834,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0680,32876,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,feita à mão,S,Artesania,,Fornecedor,Positiva
+C0681,24998,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Visitante,Positiva
+C0682,50936,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0683,22765,India,Agra,creative,3,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Destino / comunidade,Neutra
+C0684,22740,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; SD,embalagens; sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0685,37540,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,reparar,S,R4 Reparar,,Fornecedor,Positiva
+C0686,3261,Brazil,Rio de Janeiro,creative,5,pt,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Neutra
+C0687,32423,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,orgânica,S,Cadeia local,,Fornecedor,Positiva
+C0688,29035,India,Mumbai,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçaram,N,Não se aplica,,,
+C0689,30231,China,Xi'an,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Visitante,Positiva
+C0690,48239,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,antiquário,S,R3 Reutilizar,,Fornecedor,Positiva
+C0691,34760,South Africa,Johannesburg,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0692,47819,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0693,38262,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,comida local,S,Cadeia local,,Visitante,Positiva
+C0694,31508,South Africa,Cape Town,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,S,R3 Reutilizar,,Visitante,Positiva
+C0695,6033,Brazil,São Paulo,creative,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,N,Não se aplica,,,
+C0696,19259,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,reparação,S,R4 Reparar,,Fornecedor,Neutra
+C0697,8506,Brazil,Salvador,mass_market,5,pt,R4 Reparar,R4,consertem,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0698,10982,Brazil,Foz do Iguaçu,mass_market,3,pt-BR,Sustentabilidade declarada,SD,ecológica,N,Não se aplica,,,
+C0699,32177,South Africa,Cape Town,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0700,37612,Egypt,Cairo,creative,5,pt,R3 Reutilizar,R3,antiguidade,S,Artesania,,Fornecedor,Positiva
+C0701,24870,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,S,Artesania,,Fornecedor,Positiva
+C0702,21885,India,Agra,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0703,28188,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0704,22142,India,Agra,creative,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0705,37293,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0706,12382,Brazil,Foz do Iguaçu,creative,5,pt,Cadeia local,CL,produtos no local,N,Não se aplica,,,
+C0707,47293,United Arab Emirates,Dubai,creative,2,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurar,N,Não se aplica,,,
+C0708,20482,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0709,39582,Egypt,Aswan,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0710,40827,Ethiopia,Addis Ababa,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0711,17976,India,Delhi,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçados,N,Não se aplica,,,
+C0712,5605,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD; AR,artesãos; sustentável,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C0713,42980,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0714,36776,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0715,52268,Iran,Tehran,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0716,35904,Egypt,Cairo,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidade,N,Não se aplica,,,
+C0717,54067,Iran,Isfahan,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plásticos,N,Não se aplica,,,
+C0718,3431,Brazil,Rio de Janeiro,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,Restaurar,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0719,15179,Russia,Saint Petersburg,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0720,6413,Brazil,São Paulo,creative,4,pt,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0721,37450,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0722,25633,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0723,7651,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Negativa
+C0724,3328,Brazil,Rio de Janeiro,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0725,21483,India,Agra,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; AR,artesãos; restauração,S,R5-R6 Restaurar / remanufaturar,Artesania,Fornecedor,Positiva
+C0726,36400,Egypt,Cairo,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0727,14776,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0728,50199,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C0729,29391,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0730,4945,Brazil,São Paulo,mass_market,5,pt,Cadeia local,CL,fornecedores locais,N,Não se aplica,,,
+C0731,45364,Saudi Arabia,Al-Ula,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C0732,45097,Saudi Arabia,Jeddah,creative,5,pt-BR,R4 Reparar,R4,conserto,N,Não se aplica,,,
+C0733,48302,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0734,32877,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0735,14734,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C0736,38557,Egypt,Luxor,mass_market,2,pt-BR,R4 Reparar,R4,consertarem,N,Não se aplica,,,
+C0737,21010,India,Agra,mass_market,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0738,50130,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçaram,N,Não se aplica,,,
+C0739,40351,Ethiopia,Addis Ababa,mass_market,5,pt-BR,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0740,21263,India,Agra,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartável,N,Não se aplica,,,
+C0741,42963,Saudi Arabia,Riyadh,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0742,25798,India,Jaipur,creative,5,pt-BR,Artesania,AR,feita à mão,S,Artesania,,Fornecedor,Positiva
+C0743,15408,Russia,Saint Petersburg,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçá,N,Não se aplica,,,
+C0744,28931,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanais; artesãos,S,Artesania,,Fornecedor,Positiva
+C0745,50925,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0746,19883,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0747,1156,Brazil,Rio de Janeiro,mass_market,5,pt,Sustentabilidade declarada,SD,meio ambiente; sustentáveis,N,Não se aplica,,,
+C0748,13533,Russia,Moscow,mass_market,3,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0749,36447,Egypt,Cairo,mass_market,5,pt-BR,R3 Reutilizar,R3,reutilizados,S,R3 Reutilizar,,Fornecedor,Negativa
+C0750,30756,South Africa,Cape Town,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C0751,9788,Brazil,Salvador,creative,5,pt,Artesania,AR,Artesanal,N,Não se aplica,,,
+C0752,7724,Brazil,São Paulo,creative,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0753,48926,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,vintage,N,Não se aplica,,,
+C0754,39219,Egypt,Aswan,mass_market,5,pt-BR,Cadeia local,CL,orgânica,S,Cadeia local,,Fornecedor,Positiva
+C0755,29074,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0756,3114,Brazil,Rio de Janeiro,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurou,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C0757,9464,Brazil,Salvador,creative,5,pt,Artesania,AR,feita à mão,S,Artesania,R7 Repropor / upcycling,Fornecedor,Positiva
+C0758,6567,Brazil,São Paulo,creative,1,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C0759,23182,India,Agra,creative,5,pt-BR,Cadeia local,CL,comida local,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0760,15425,Russia,Saint Petersburg,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0761,24986,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0762,11871,Brazil,Foz do Iguaçu,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0763,1253,Brazil,Rio de Janeiro,mass_market,5,pt,Sustentabilidade declarada,SD,Ecológico,N,Não se aplica,,,
+C0764,52202,Iran,Tehran,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0765,32986,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0766,14053,Russia,Moscow,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0767,23640,India,Jaipur,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçada,N,Não se aplica,,,
+C0768,8725,Brazil,Salvador,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanal; plástico; plásticos,S,R7 Repropor / upcycling,R0-R2 Recusar / repensar / reduzir,Fornecedor,Neutra
+C0769,16742,Russia,Saint Petersburg,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0770,48516,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesãos; feitos à mão,S,Artesania,,Fornecedor,Positiva
+C0771,37305,Egypt,Cairo,creative,5,pt-BR,Cadeia local,CL,Comércio Justo,S,Cadeia local,,Visitante,Positiva
+C0772,28433,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0773,46387,United Arab Emirates,Dubai,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente; sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0774,10066,Brazil,Salvador,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0775,50911,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesãs,S,Artesania,,Fornecedor,Neutra
+C0776,12783,Brazil,Foz do Iguaçu,creative,5,pt,R3 Reutilizar,R3,vintage,N,Não se aplica,,,
+C0777,30157,China,Xi'an,creative,1,pt-BR,R4 Reparar,R4,consertassem,S,Artesania,,Visitante,Negativa
+C0778,52999,Iran,Tehran,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C0779,20050,India,Delhi,creative,5,en,Cadeia local,CL,fair trade,S,Cadeia local,,Fornecedor,Positiva
+C0780,14031,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4; AR,artesãos; consertar; reparações,S,R4 Reparar,,Fornecedor,Positiva
+C0781,2479,Brazil,Rio de Janeiro,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,R3 Reutilizar,,Fornecedor,Positiva
+C0782,3392,Brazil,Rio de Janeiro,creative,5,pt,R8 Reciclar,R8; R0-2,lixo; recicláveis,S,R7 Repropor / upcycling,Artesania,Destino / comunidade,Positiva
+C0783,7352,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0784,9750,Brazil,Salvador,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0785,48187,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0786,16417,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4; AR,artesãos; conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0787,35382,South Africa,Johannesburg,creative,4,pt-BR,R7 Repropor / upcycling,R7,sucatas,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C0788,6953,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0789,24714,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0790,8391,Brazil,Salvador,mass_market,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0791,54304,Iran,Shiraz,mass_market,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0792,50269,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertados; consertavam; reparações,S,R4 Reparar,,Fornecedor,Positiva
+C0793,1994,Brazil,Rio de Janeiro,creative,1,pt,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Negativa
+C0794,40902,Ethiopia,Lalibela,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0795,5558,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0796,28884,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0797,45199,Saudi Arabia,Jeddah,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0798,41696,Saudi Arabia,Riyadh,mass_market,4,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0799,25892,India,Jaipur,creative,5,pt-BR,R4 Reparar,R4; AR,consertar; feito à mão; feitos à mão,S,Artesania,R4 Reparar,Fornecedor,Positiva
+C0800,17223,India,Delhi,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0801,32254,South Africa,Cape Town,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0802,32074,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0803,26597,India,Mumbai,mass_market,5,pt-BR,R8 Reciclar,R8,reciclagem,S,R8 Reciclar,,Destino / comunidade,Positiva
+C0804,43088,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; embalagens,S,R3 Reutilizar,,Fornecedor,Positiva
+C0805,20557,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0806,33193,South Africa,Cape Town,creative,5,pt,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0807,48185,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0808,12182,Brazil,Foz do Iguaçu,creative,2,pt,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C0809,21970,India,Agra,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C0810,50871,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem,N,Não se aplica,,,
+C0811,8634,Brazil,Salvador,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo; plástico; resíduos,N,Não se aplica,,,
+C0812,19255,India,Delhi,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C0813,28157,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0814,42718,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertassem,N,Não se aplica,,,
+C0815,7193,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0816,39025,Egypt,Luxor,creative,1,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Negativa
+C0817,22431,India,Agra,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0818,34456,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesão,N,Não se aplica,,,
+C0819,28960,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0820,4463,Brazil,São Paulo,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0821,8376,Brazil,Salvador,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0822,25924,India,Jaipur,creative,5,pt-BR,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C0823,53275,Iran,Tehran,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem; embalagens,N,Não se aplica,,,
+C0824,39719,Ethiopia,Addis Ababa,mass_market,5,pt,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0825,45246,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; plásticos,S,R3 Reutilizar,,Fornecedor,Neutra
+C0826,43406,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0827,29478,India,Mumbai,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0828,53040,Iran,Tehran,creative,1,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Negativa
+C0829,40452,Ethiopia,Addis Ababa,creative,5,pt-BR,Cadeia local,CL; AR,artesãos; comércio justo; fornecedores locais,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0830,49223,United Arab Emirates,Abu Dhabi,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0831,3212,Brazil,Rio de Janeiro,creative,5,pt,R3 Reutilizar,R3; SD,meio ambiente; reaproveitamento,S,R3 Reutilizar,Artesania,Fornecedor,Positiva
+C0832,48616,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0833,54041,Iran,Isfahan,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0834,37314,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0835,36844,Egypt,Cairo,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Negativa
+C0836,39018,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0837,24914,India,Jaipur,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C0838,29004,India,Mumbai,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Neutra
+C0839,30437,China,Shanghai,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0840,39275,Egypt,Aswan,mass_market,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; artesanais,S,Artesania,,Destino / comunidade,Positiva
+C0841,24807,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C0842,24854,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,S,Artesania,,Fornecedor,Positiva
+C0843,48687,United Arab Emirates,Dubai,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0844,45302,Saudi Arabia,Al-Ula,mass_market,5,pt-BR,Sustentabilidade declarada,SD; CL,orgânicas; sustentabilidade,S,Cadeia local,Sustentabilidade declarada,Fornecedor,Positiva
+C0845,36510,Egypt,Cairo,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0846,52238,Iran,Tehran,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,N,Não se aplica,,,
+C0847,30454,China,Shanghai,mass_market,3,pt-BR,Cadeia local,CL,orgânica,N,Não se aplica,,,
+C0848,26220,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0849,54524,Iran,Shiraz,creative,5,pt-BR,R8 Reciclar,R8,recicláveis,S,R8 Reciclar,Artesania,Fornecedor,Positiva
+C0850,39559,Egypt,Aswan,creative,5,pt-BR,R3 Reutilizar,R3,antiguidade; antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0851,26116,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0852,22464,India,Agra,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0853,13985,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertando,S,R4 Reparar,,Fornecedor,Positiva
+C0854,6404,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C0855,50220,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0856,22420,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanal; artesão; embalagem,S,Artesania,,Fornecedor,Positiva
+C0857,30439,China,Shanghai,mass_market,5,pt-BR,Cadeia local,CL,Comida local,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0858,13786,Russia,Moscow,mass_market,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Destino / comunidade,Neutra
+C0859,1775,Brazil,Rio de Janeiro,creative,5,pt-BR,R3 Reutilizar,R3,vintage,S,R3 Reutilizar,,Fornecedor,Positiva
+C0860,19088,India,Delhi,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0861,6032,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanais; embalagens,N,Não se aplica,,,
+C0862,11990,Brazil,Foz do Iguaçu,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0863,24805,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C0864,25763,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0865,44923,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0866,14655,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0867,14669,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Plástico; plástico,N,Não se aplica,,,
+C0868,45517,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,Artesania,Fornecedor,Positiva
+C0869,52340,Iran,Tehran,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológicas,S,Sustentabilidade declarada,,Visitante,Positiva
+C0870,42923,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,,Fornecedor,Positiva
+C0871,14023,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar; reparos,S,R4 Reparar,,Fornecedor,Negativa
+C0872,48303,United Arab Emirates,Dubai,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades; antiquário,S,R3 Reutilizar,,Fornecedor,Neutra
+C0873,22445,India,Agra,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0874,34237,South Africa,Johannesburg,mass_market,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0875,38838,Egypt,Luxor,creative,5,pt-BR,Artesania,AR,artesão,S,Artesania,,Fornecedor,Positiva
+C0876,42914,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0877,44815,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,R3 Reutilizar,Fornecedor,Positiva
+C0878,12601,Brazil,Foz do Iguaçu,creative,3,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Negativa
+C0879,44932,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3; AR,antiguidades; artesanais,S,Artesania,R3 Reutilizar,Fornecedor,Neutra
+C0880,50961,United Arab Emirates,Abu Dhabi,creative,2,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C0881,43163,Saudi Arabia,Riyadh,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0882,10060,Brazil,Salvador,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0883,36741,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Neutra
+C0884,48299,United Arab Emirates,Dubai,creative,4,pt,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0885,45059,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0886,50212,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Negativa
+C0887,7117,Brazil,São Paulo,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0888,33781,South Africa,Johannesburg,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Desperdício,N,Não se aplica,,,
+C0889,10873,Brazil,Foz do Iguaçu,mass_market,2,pt-BR,R3 Reutilizar,R3,segunda mão,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0890,29464,India,Mumbai,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0891,48740,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertaram,N,Não se aplica,,,
+C0892,20130,India,Delhi,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0893,16571,Russia,Saint Petersburg,creative,5,pt-BR,Artesania,AR,artesãs,S,Artesania,,Fornecedor,Positiva
+C0894,48148,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0895,20798,India,Agra,mass_market,5,pt-BR,Cadeia local,CL,comida local,S,Cadeia local,,Visitante,Positiva
+C0896,12485,Brazil,Foz do Iguaçu,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0897,28480,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0898,48244,United Arab Emirates,Dubai,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Destino / comunidade,Positiva
+C0899,33128,South Africa,Cape Town,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,N,Não se aplica,,,
+C0900,34489,South Africa,Johannesburg,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurada,N,Não se aplica,,,
+C0901,6507,Brazil,São Paulo,creative,5,pt,Artesania,AR,artesão,S,Artesania,,Fornecedor,Positiva
+C0902,16504,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C0903,54040,Iran,Isfahan,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades; antiquário; antiquários,S,R3 Reutilizar,,Fornecedor,Positiva
+C0904,22998,India,Agra,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Visitante,Positiva
+C0905,44924,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0906,43739,Saudi Arabia,Jeddah,mass_market,1,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Neutra
+C0907,2480,Brazil,Rio de Janeiro,creative,2,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0908,7911,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0909,43003,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3; R0-2,antiguidades; lixo; plástico,S,R3 Reutilizar,,Fornecedor,Neutra
+C0910,14731,Russia,Moscow,creative,2,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado; restauração,S,R5-R6 Restaurar / remanufaturar,R4 Reparar,Fornecedor,Neutra
+C0911,38959,Egypt,Luxor,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,artesanais; plástico,S,Artesania,Cadeia local,Fornecedor,Positiva
+C0912,27156,India,Mumbai,mass_market,5,pt-BR,R8 Reciclar,R8; R0-2,plástico; reciclam,S,R8 Reciclar,,Destino / comunidade,Neutra
+C0913,42921,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Destino / comunidade,Positiva
+C0914,49120,United Arab Emirates,Abu Dhabi,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0915,21887,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0916,8724,Brazil,Salvador,mass_market,5,pt,Artesania,AR,artesanal,S,Cadeia local,,Visitante,Positiva
+C0917,39533,Egypt,Aswan,creative,5,pt-BR,R4 Reparar,R4,reparação,S,R4 Reparar,,Fornecedor,Neutra
+C0918,8120,Brazil,Salvador,mass_market,3,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurada,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C0919,24198,India,Jaipur,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0920,52766,Iran,Tehran,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0921,38829,Egypt,Luxor,creative,5,pt-BR,R4 Reparar,R4,conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0922,44890,Saudi Arabia,Jeddah,creative,5,pt-BR,Artesania,AR,feita à mão,N,Não se aplica,,,
+C0923,10855,Brazil,Foz do Iguaçu,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0924,233,Brazil,Rio de Janeiro,mass_market,5,pt,Sustentabilidade declarada,SD,ecoturismo,S,Sustentabilidade declarada,,Visitante,Neutra
+C0925,2635,Brazil,Rio de Janeiro,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0926,28831,India,Mumbai,creative,5,pt-BR,Cadeia local,CL,orgânico,S,R7 Repropor / upcycling,,Fornecedor,Neutra
+C0927,3076,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesã,N,Não se aplica,,,
+C0928,8732,Brazil,Salvador,mass_market,3,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0929,17730,India,Delhi,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0930,40723,Ethiopia,Addis Ababa,creative,5,pt-BR,R3 Reutilizar,R3,segunda mão,S,R3 Reutilizar,,Destino / comunidade,Neutra
+C0931,50890,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C0932,36970,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,N,Não se aplica,,,
+C0933,25585,India,Jaipur,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0934,26213,India,Jaipur,creative,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,canudo,S,R0-R2 Recusar / repensar / reduzir,,Fornecedor,Neutra
+C0935,6603,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C0936,36302,Egypt,Cairo,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C0937,48403,United Arab Emirates,Dubai,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurou,N,Não se aplica,,,
+C0938,6372,Brazil,São Paulo,creative,5,pt,Sustentabilidade declarada,SD,sustentabilidade,S,R3 Reutilizar,,Fornecedor,Positiva
+C0939,7313,Brazil,São Paulo,creative,5,pt,R7 Repropor / upcycling,R7,transformada em,N,Não se aplica,,,
+C0940,33648,South Africa,Johannesburg,mass_market,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0941,45217,Saudi Arabia,Jeddah,creative,4,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C0942,40436,Ethiopia,Addis Ababa,creative,4,pt-BR,Cadeia local,CL; AR,Artesanal; Produtos artesanais locais; artesanais,S,Cadeia local,Artesania,Fornecedor,Positiva
+C0943,40462,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C0944,37301,Egypt,Cairo,creative,5,pt-BR,Cadeia local,CL,comércio justo; produtores locais,S,Cadeia local,,Fornecedor,Positiva
+C0945,51854,United Arab Emirates,Sharjah,creative,4,pt-BR,R4 Reparar,R4,conserto; reparo,S,R4 Reparar,,Fornecedor,Positiva
+C0946,48624,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,N,Não se aplica,,,
+C0947,716,Brazil,Rio de Janeiro,mass_market,1,pt,R8 Reciclar,R8,reciclagem,N,Não se aplica,,,
+C0948,42417,Saudi Arabia,Riyadh,creative,4,pt-BR,Cadeia local,CL,orgânica; orgânicos,S,Cadeia local,,Fornecedor,Neutra
+C0949,9329,Brazil,Salvador,creative,5,pt,R4 Reparar,R4,consertando,N,Não se aplica,,,
+C0950,14094,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,N,Não se aplica,,,
+C0951,48699,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4; R0-2,lixo; reparo,N,Não se aplica,,,
+C0952,27662,India,Mumbai,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0953,40506,Ethiopia,Addis Ababa,creative,3,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0954,24266,India,Jaipur,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C0955,35176,South Africa,Johannesburg,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0956,38898,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,,Fornecedor,Neutra
+C0957,22679,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,N,Não se aplica,,,
+C0958,25621,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0959,40685,Ethiopia,Addis Ababa,creative,5,pt-BR,Cadeia local,CL,orgânico,S,Cadeia local,,Visitante,Neutra
+C0960,35303,South Africa,Johannesburg,creative,4,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C0961,11524,Brazil,Foz do Iguaçu,mass_market,1,pt,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0962,9554,Brazil,Salvador,creative,5,pt,Artesania,AR,artesã,S,Artesania,,Fornecedor,Positiva
+C0963,38811,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Artesania,,Fornecedor,Positiva
+C0964,26136,India,Jaipur,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Neutra
+C0965,42235,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C0966,42650,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C0967,6559,Brazil,São Paulo,creative,1,pt,Sustentabilidade declarada,SD,sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C0968,24073,India,Jaipur,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0969,37349,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,consertada; consertar; conserto,S,R4 Reparar,,Fornecedor,Positiva
+C0970,18382,India,Delhi,mass_market,5,pt-BR,Sustentabilidade declarada,SD; AR,artesãos; sustentabilidade,S,Cadeia local,Sustentabilidade declarada,Fornecedor,Positiva
+C0971,47554,United Arab Emirates,Dubai,creative,1,pt-BR,R4 Reparar,R4,consertam,S,R4 Reparar,,Fornecedor,Negativa
+C0972,37871,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,feita à mão,S,Artesania,,Fornecedor,Positiva
+C0973,32966,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C0974,39043,Egypt,Luxor,creative,1,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Negativa
+C0975,3296,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanal,N,Não se aplica,,,
+C0976,15361,Russia,Saint Petersburg,mass_market,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Visitante,Positiva
+C0977,32582,South Africa,Cape Town,creative,3,pt-BR,R4 Reparar,R4,consertado; consertar,N,Não se aplica,,,
+C0978,1131,Brazil,Rio de Janeiro,mass_market,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0979,5789,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0980,30060,China,Xi'an,mass_market,2,pt,R5-R6 Restaurar / remanufaturar,R5-6,restauradas,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0981,30652,China,Shanghai,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Neutra
+C0982,13259,Russia,Moscow,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0983,22345,India,Agra,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C0984,43090,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0985,9483,Brazil,Salvador,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C0986,3372,Brazil,Rio de Janeiro,creative,5,pt,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C0987,13512,Russia,Moscow,mass_market,2,pt-BR,R4 Reparar,R4,reparado,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Negativa
+C0988,29102,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológica,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C0989,19274,India,Delhi,creative,5,pt-BR,Artesania,AR,artesãos,N,Não se aplica,,,
+C0990,13934,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Neutra
+C0991,26398,India,Mumbai,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C0992,5363,Brazil,São Paulo,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C0993,31678,South Africa,Cape Town,mass_market,5,pt-BR,R8 Reciclar,R8; SD,reciclagem; sustentabilidade,S,R7 Repropor / upcycling,,Destino / comunidade,Positiva
+C0994,13952,Russia,Moscow,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C0995,53532,Iran,Isfahan,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdício,N,Não se aplica,,,
+C0996,5007,Brazil,São Paulo,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C0997,38942,Egypt,Luxor,creative,5,pt,Artesania,AR,artesão,S,Artesania,,Fornecedor,Positiva
+C0998,44984,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C0999,33736,South Africa,Johannesburg,mass_market,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C1000,13989,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C1001,16229,Russia,Saint Petersburg,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Negativa
+C1002,25708,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1003,14021,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C1004,21995,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagens,N,Não se aplica,,,
+C1005,44531,Saudi Arabia,Jeddah,creative,1,pt-BR,R4 Reparar,R4,consertada,S,R4 Reparar,,Fornecedor,Negativa
+C1006,22337,India,Agra,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1007,28900,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1008,28924,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C1009,32765,South Africa,Cape Town,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C1010,42911,Saudi Arabia,Riyadh,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem; embalagens,S,Artesania,,Fornecedor,Positiva
+C1011,47577,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,consertar; consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C1012,185,Brazil,Rio de Janeiro,mass_market,1,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C1013,25909,India,Jaipur,creative,5,pt-BR,R3 Reutilizar,R3,produtos usados,N,Não se aplica,,,
+C1014,24443,India,Jaipur,mass_market,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçou,N,Não se aplica,,,
+C1015,12957,Russia,Moscow,mass_market,5,pt-BR,R3 Reutilizar,R3,antiguidade; vintage,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Neutra
+C1016,18456,India,Delhi,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C1017,48614,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,R3 Reutilizar,,Fornecedor,Neutra
+C1018,27482,India,Mumbai,mass_market,5,pt-BR,Cadeia local,CL,comida seja local,N,Não se aplica,,,
+C1019,3226,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanais,N,Não se aplica,,,
+C1020,9528,Brazil,Salvador,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1021,34713,South Africa,Johannesburg,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C1022,38044,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C1023,30144,China,Xi'an,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6; AR,artesão; restauração,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Neutra
+C1024,52444,Iran,Tehran,mass_market,4,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Neutra
+C1025,40433,Ethiopia,Addis Ababa,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C1026,9830,Brazil,Salvador,creative,5,pt,R3 Reutilizar,R3,Antiquário,S,R3 Reutilizar,,Visitante,Positiva
+C1027,42185,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C1028,44817,Saudi Arabia,Jeddah,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C1029,10421,Brazil,Salvador,creative,4,pt,Cadeia local,CL,orgânico,S,Cadeia local,,Fornecedor,Neutra
+C1030,34388,South Africa,Johannesburg,creative,5,pt-BR,R8 Reciclar,R8,reciclagem,S,R8 Reciclar,,Fornecedor,Positiva
+C1031,13978,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,Artesania,,Fornecedor,Positiva
+C1032,35489,South Africa,Johannesburg,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,N,Não se aplica,,,
+C1033,29477,India,Mumbai,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,resíduos,N,Não se aplica,,,
+C1034,29130,India,Mumbai,creative,1,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C1035,38029,Egypt,Luxor,mass_market,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Destino / comunidade,Positiva
+C1036,13108,Russia,Moscow,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C1037,33439,South Africa,Johannesburg,mass_market,4,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C1038,42236,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C1039,15337,Russia,Saint Petersburg,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C1040,25779,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem,N,Não se aplica,,,
+C1041,36759,Egypt,Cairo,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,Cadeia local,Fornecedor,Positiva
+C1042,21136,India,Agra,mass_market,4,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1043,48258,United Arab Emirates,Dubai,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,Sustentável; artesão; artesãos; feita à mão; feitas à mão; feito à mão; sustentável,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C1044,35986,Egypt,Cairo,mass_market,1,pt-BR,R4 Reparar,R4,consertando,S,R4 Reparar,,Fornecedor,Neutra
+C1045,35381,South Africa,Johannesburg,creative,4,pt-BR,R8 Reciclar,R8,reciclagem,S,R8 Reciclar,,Fornecedor,Positiva
+C1046,54487,Iran,Shiraz,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1047,25588,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C1048,51185,United Arab Emirates,Abu Dhabi,creative,3,pt-BR,R8 Reciclar,R8,reciclar,S,R8 Reciclar,,Fornecedor,Negativa
+C1049,25688,India,Jaipur,creative,4,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Neutra
+C1050,50193,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,Artesania,AR,artesanal,S,R5-R6 Restaurar / remanufaturar,Artesania,Fornecedor,Positiva
+C1051,777,Brazil,Rio de Janeiro,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2; SD,lixo; meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1052,5797,Brazil,São Paulo,creative,5,pt,R4 Reparar,R4,consertos,S,R4 Reparar,,Fornecedor,Positiva
+C1053,41713,Saudi Arabia,Riyadh,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C1054,43278,Saudi Arabia,Riyadh,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1055,37885,Egypt,Cairo,creative,4,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1056,8734,Brazil,Salvador,mass_market,3,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,N,Não se aplica,,,
+C1057,53358,Iran,Tehran,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1058,4970,Brazil,São Paulo,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C1059,38295,Egypt,Luxor,mass_market,5,pt-BR,R4 Reparar,R4,consertaram,S,R4 Reparar,,Fornecedor,Positiva
+C1060,34475,South Africa,Johannesburg,creative,4,pt-BR,R4 Reparar,R4,consertar,N,Não se aplica,,,
+C1061,48207,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,consertam,S,R4 Reparar,,Fornecedor,Positiva
+C1062,3733,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanal,N,Não se aplica,,,
+C1063,39119,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C1064,37409,Egypt,Cairo,creative,4,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C1065,45531,Saudi Arabia,Al-Ula,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C1066,20714,India,Delhi,creative,5,pt-BR,Artesania,AR,feitos à mão,S,Artesania,Cadeia local,Fornecedor,Neutra
+C1067,5441,Brazil,São Paulo,creative,5,pt,R5-R6 Restaurar / remanufaturar,R5-6,restaurados,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C1068,37316,Egypt,Cairo,creative,5,pt-BR,R3 Reutilizar,R3; CL,antiguidades; produtos locais,S,Cadeia local,R3 Reutilizar,Fornecedor,Positiva
+C1069,29313,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1070,37348,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,consertou,S,R4 Reparar,,Fornecedor,Positiva
+C1071,48499,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1072,8721,Brazil,Salvador,mass_market,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,Sustentabilidade declarada,,Visitante,Positiva
+C1073,28124,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1074,3289,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesã,S,Artesania,,Visitante,Positiva
+C1075,31010,South Africa,Cape Town,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,S,R7 Repropor / upcycling,,Fornecedor,Negativa
+C1076,9632,Brazil,Salvador,creative,5,pt,Cadeia local,CL,produtos regionais,S,Cadeia local,,Fornecedor,Positiva
+C1077,3262,Brazil,Rio de Janeiro,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1078,45392,Saudi Arabia,Al-Ula,mass_market,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurada,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C1079,13918,Russia,Moscow,mass_market,3,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C1080,39583,Egypt,Aswan,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C1081,28918,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Fornecedor,Positiva
+C1082,50917,United Arab Emirates,Abu Dhabi,creative,1,pt-BR,R4 Reparar,R4; R0-2,consertá; plástico,N,Não se aplica,,,
+C1083,43037,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Visitante,Positiva
+C1084,42878,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,Cadeia local,Artesania,Fornecedor,Positiva
+C1085,9063,Brazil,Salvador,creative,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C1086,44169,Saudi Arabia,Jeddah,mass_market,2,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Negativa
+C1087,47513,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,Feitos à mão; embalagem,S,Artesania,,Fornecedor,Positiva
+C1088,29006,India,Mumbai,creative,3,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C1089,38207,Egypt,Luxor,mass_market,5,pt-BR,Cadeia local,CL,produtores locais,S,Cadeia local,,Fornecedor,Positiva
+C1090,14044,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4; AR,artesãos; consertar,S,R4 Reparar,,Fornecedor,Positiva
+C1091,44680,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,N,Não se aplica,,,
+C1092,23024,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1093,39019,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Neutra
+C1094,21004,India,Agra,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C1095,32713,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,S,R7 Repropor / upcycling,,Fornecedor,Positiva
+C1096,29486,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD; AR,ecológicos; feitos à mão,S,Artesania,Sustentabilidade declarada,Fornecedor,Positiva
+C1097,21812,India,Agra,creative,5,pt-BR,R4 Reparar,R4,reparos,S,R4 Reparar,,Fornecedor,Positiva
+C1098,18625,India,Delhi,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológica; ecológicas; sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1099,30001,China,Beijing,creative,4,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,S,R5-R6 Restaurar / remanufaturar,,Destino / comunidade,Positiva
+C1100,38825,Egypt,Luxor,creative,2,pt-BR,Cadeia local,CL,Comércio Justo,N,Não se aplica,,,
+C1101,38909,Egypt,Luxor,creative,5,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Neutra
+C1102,17833,India,Delhi,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçou,N,Não se aplica,,,
+C1103,50058,United Arab Emirates,Abu Dhabi,creative,4,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C1104,29361,India,Mumbai,creative,5,pt-BR,Artesania,AR,artesanal,S,Artesania,,Visitante,Positiva
+C1105,23009,India,Agra,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Negativa
+C1106,51178,United Arab Emirates,Abu Dhabi,creative,4,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1107,28085,India,Mumbai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobras,S,R0-R2 Recusar / repensar / reduzir,,Visitante,Positiva
+C1108,14294,Russia,Moscow,creative,2,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,descartável,N,Não se aplica,,,
+C1109,20495,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1110,39065,Egypt,Luxor,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,N,Não se aplica,,,
+C1111,22698,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1112,27143,India,Mumbai,mass_market,5,pt-BR,R8 Reciclar,R8; R3,reciclar; reutilizar,S,R8 Reciclar,R3 Reutilizar,Destino / comunidade,Positiva
+C1113,14013,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1114,46884,United Arab Emirates,Dubai,mass_market,1,pt,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçados,N,Não se aplica,,,
+C1115,20360,India,Delhi,creative,5,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restauração,N,Não se aplica,,,
+C1116,41130,Saudi Arabia,Riyadh,mass_market,5,pt-BR,Artesania,AR,artesãos,N,Não se aplica,,,
+C1117,32246,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C1118,42741,Saudi Arabia,Riyadh,creative,1,pt-BR,R4 Reparar,R4,consertados,N,Não se aplica,,,
+C1119,45159,Saudi Arabia,Jeddah,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Neutra
+C1120,39257,Egypt,Aswan,mass_market,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1121,18801,India,Delhi,creative,4,pt-BR,R7 Repropor / upcycling,R7,transformada em,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C1122,10245,Brazil,Salvador,creative,5,pt,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1123,37347,Egypt,Cairo,creative,5,pt-BR,R4 Reparar,R4,consertando; conserte,S,R4 Reparar,,Fornecedor,Positiva
+C1124,3390,Brazil,Rio de Janeiro,creative,5,pt,R0-R2 Recusar / repensar / reduzir,R0-2; SD,Meio Ambiente; Sustentabilidade; lixo; resíduos,S,R7 Repropor / upcycling,,Fornecedor,Positiva
+C1125,36044,Egypt,Cairo,mass_market,5,pt-BR,Cadeia local,CL,comida local,N,Não se aplica,,,
+C1126,45528,Saudi Arabia,Al-Ula,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1127,21055,India,Agra,mass_market,5,pt-BR,Cadeia local,CL,comida local,S,Artesania,,Destino / comunidade,Positiva
+C1128,19646,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológico,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C1129,6582,Brazil,São Paulo,creative,4,pt,R0-R2 Recusar / repensar / reduzir,R0-2,descartáveis,N,Não se aplica,,,
+C1130,50275,United Arab Emirates,Abu Dhabi,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C1131,14030,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4; AR,artesãos; consertados,S,R4 Reparar,Artesania,Fornecedor,Positiva
+C1132,25716,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1133,42872,Saudi Arabia,Riyadh,creative,5,pt-BR,R3 Reutilizar,R3,antiguidades,S,R3 Reutilizar,,Fornecedor,Positiva
+C1134,47542,United Arab Emirates,Dubai,creative,5,pt-BR,R4 Reparar,R4,reparo,S,R4 Reparar,,Fornecedor,Positiva
+C1135,53125,Iran,Tehran,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1136,14944,Russia,Moscow,creative,1,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C1137,14522,Russia,Moscow,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1138,25573,India,Jaipur,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicos,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1139,53479,Iran,Isfahan,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C1140,14703,Russia,Moscow,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1141,32716,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2; AR,desperdício; feito à mão; plástico,S,Artesania,R0-R2 Recusar / repensar / reduzir,Fornecedor,Positiva
+C1142,1713,Brazil,Rio de Janeiro,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Visitante,Positiva
+C1143,22410,India,Agra,creative,5,pt-BR,Artesania,AR,artesanal,N,Não se aplica,,,
+C1144,24944,India,Jaipur,creative,5,pt-BR,Artesania,AR,feitas à mão,S,Artesania,,Fornecedor,Positiva
+C1145,19933,India,Delhi,creative,5,pt-BR,Sustentabilidade declarada,SD,ecológicas,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1146,44510,Saudi Arabia,Jeddah,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem; embalagens,N,Não se aplica,,,
+C1147,37886,Egypt,Cairo,creative,3,pt-BR,Artesania,AR,feito à mão,S,Artesania,,Fornecedor,Positiva
+C1148,25732,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1149,27860,India,Mumbai,creative,5,pt-BR,Sustentabilidade declarada,SD,Sustentabilidade,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1150,14019,Russia,Moscow,creative,5,pt-BR,R4 Reparar,R4,consertar; consertá,S,R4 Reparar,,Fornecedor,Positiva
+C1151,53843,Iran,Isfahan,creative,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Neutra
+C1152,24976,India,Jaipur,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1153,19075,India,Delhi,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,S,R7 Repropor / upcycling,Artesania,Fornecedor,Positiva
+C1154,32372,South Africa,Cape Town,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentáveis,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1155,31222,South Africa,Cape Town,mass_market,5,pt-BR,Sustentabilidade declarada,SD,meio ambiente,N,Não se aplica,,,
+C1156,25920,India,Jaipur,creative,5,pt-BR,R4 Reparar,R4,reparo,N,Não se aplica,,,
+C1157,20720,India,Delhi,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C1158,42155,Saudi Arabia,Riyadh,creative,5,pt-BR,R4 Reparar,R4,consertar,S,R4 Reparar,,Fornecedor,Positiva
+C1159,21998,India,Agra,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,Embalagem,N,Não se aplica,,,
+C1160,47494,United Arab Emirates,Dubai,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1161,19887,India,Delhi,creative,5,pt-BR,Artesania,AR,artesanais,S,Artesania,,Fornecedor,Positiva
+C1162,11568,Brazil,Foz do Iguaçu,creative,5,pt-BR,Artesania,AR,artesão,N,Não se aplica,,,
+C1163,3389,Brazil,Rio de Janeiro,creative,5,pt,R8 Reciclar,R8; R0-2; SD,lixo; meio ambiente; reciclagem,S,R8 Reciclar,,Fornecedor,Positiva
+C1164,24961,India,Jaipur,creative,5,pt-BR,Artesania,AR,artesãos,S,Artesania,,Fornecedor,Positiva
+C1165,15937,Russia,Saint Petersburg,creative,2,pt-BR,R5-R6 Restaurar / remanufaturar,R5-6,restaurado,S,R5-R6 Restaurar / remanufaturar,,Fornecedor,Positiva
+C1166,44864,Saudi Arabia,Jeddah,creative,5,pt-BR,Cadeia local,CL,orgânicos,S,Cadeia local,,Fornecedor,Positiva
+C1167,32721,South Africa,Cape Town,creative,5,pt-BR,Sustentabilidade declarada,SD,sustentável,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1168,32148,South Africa,Cape Town,creative,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,embalagem,N,Não se aplica,,,
+C1169,38619,Egypt,Luxor,mass_market,5,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,sobra,N,Não se aplica,,,
+C1170,5105,Brazil,São Paulo,mass_market,5,pt,Sustentabilidade declarada,SD,ecoturismo,S,Sustentabilidade declarada,,Fornecedor,Positiva
+C1171,6566,Brazil,São Paulo,creative,1,pt,Sustentabilidade declarada,SD,meio ambiente,S,Sustentabilidade declarada,,Fornecedor,Negativa
+C1172,32207,South Africa,Cape Town,creative,5,pt-BR,Cadeia local,CL,produtos locais,S,Cadeia local,,Fornecedor,Positiva
+C1173,50308,United Arab Emirates,Abu Dhabi,creative,3,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,plástico,N,Não se aplica,,,
+C1174,43860,Saudi Arabia,Jeddah,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdicei,N,Não se aplica,,,
+C1175,17639,India,Delhi,mass_market,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,lixo,N,Não se aplica,,,
+C1176,36621,Egypt,Cairo,creative,1,pt-BR,R0-R2 Recusar / repensar / reduzir,R0-2,desperdiçado,N,Não se aplica,,,

@@ -1,0 +1,8 @@
+# platform content: not redistributable
+data/reviews_raw.csv
+*_preenchida.xlsx
+coding_sheet*.xlsx
+Codificacao_Circularidade*.xlsx
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/

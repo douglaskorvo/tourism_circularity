@@ -1,0 +1,10 @@
+priority,code,group,regex
+1,R8,R8 Reciclar,\brecicl\w*
+2,R7,R7 Repropor / upcycling,upcycl\w*|segunda vida|\bsucata\w*|reuso adaptativo|\btransformad[oa]s? em\b
+3,R5-6,R5-R6 Restaurar / remanufaturar,\brestaur(?:ad[oa]s?|ação|ações|ar|ou)\b
+4,R4,R4 Reparar,\bconsert\w*|\brepar(?:o|os|ar|ou|ação|ações|ado|ada)\b
+5,R3,R3 Reutilizar,\breaprovei\w*|\breutiliz\w*|\breuso\b|segunda mão|\bbrechó\w*|\b(?:roupas?|móveis|livros?|peças?|máquinas?|objetos?|itens|produtos?|artigos?)\s+(?:\w+\s+)?usad[oa]s\b|\bantiguidades?\b|\bantiquári\w*|\bvintage\b
+6,R0-2,R0-R2 Recusar / repensar / reduzir,desperd[ií]\w*|\bresíduos?\b|\blixo\b|lixo zero|zero waste|\bsobras?\b|\bplástico\w*|\bdescartáve\w*|\bcanudos?\b|\bembalage\w*
+7,SD,Sustentabilidade declarada,sustentáve\w*|sustentabilidade|ecológic\w*|meio ambiente|ambientalmente|eco[- ]?friendly|\becoturism\w*
+8,CL,Cadeia local,\b(?:produt\w*|ingredientes?|matérias?[- ]primas?|insumos?|fornecedor\w*|comida|alimentos?)\s+(?:\w+\s+)?(?:loca(?:l|is)|da região|regiona(?:l|is))\b|comércio justo|fair trade|\bcooperativas? (?:de |das |dos )(?:artes|mulher|produtor|agricult|tecel|bordad|oleir|ceramist|costur)\w*|\borgânic\w*
+9,AR,Artesania,feit[oa]s? (?:à|a) mão|\bartesana(?:l|is)\b|\bartes(?:ão|ãos|ã|ãs)\b
