@@ -2,6 +2,10 @@
 
 Code, coding scheme and derived data for the manuscript **"Circularity rarely speaks: R-strategies in visitor reviews across ten emerging economies"**, submitted to *Production* (ABEPRO), Thematic Section linked to IJCIEOM 2027.
 
+> **Note on the raw data:** the file `reviews_raw.csv` is **not included** in this repository, because Google Maps content cannot be redistributed. To run the pipeline, place your own copy of the corpus at `data/reviews_raw.csv` (see *Data availability*).
+>
+> **Nota sobre os dados brutos:** o arquivo `reviews_raw.csv` **não está incluído** neste repositório, porque o conteúdo do Google Maps não pode ser redistribuído. Para rodar o pipeline, coloque sua cópia do corpus em `data/reviews_raw.csv` (ver *Data availability*).
+
 The study measures how often visitors' online reviews of tourism suppliers report circular economy practices (R-strategies), which strategies they report, and how those reports relate to ratings. Country estimates are pooled with a single-corpus random-effects meta-analysis.
 
 ## Main results (reproduced by the notebook)
